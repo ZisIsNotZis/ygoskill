@@ -1,0 +1,28 @@
+# Script Skill Evolution
+
+- **Goal**
+
+Improve script implementation skills based on feedback from comparison and debugging results. When a skill is strictly followed but produces wrong results, the skill is wrong — update it immediately.
+
+- **Triggers**
+
+- Script comparison reveals systematic errors in a category (event codes, effect types, helper usage, scoping)
+- Comparison reveals a made-up function or constant — this is a critical failure, the build skill must be updated
+- Debugging session reveals an API function or pattern not documented in [api/](../api/SKILL.md)
+- User reports a script implementation that does not match real card behavior
+- Multi-effect card was implemented as single merged effect — build skill gap
+- Targeting effects missing EFFECT_FLAG_CARD_TARGET or chkc check — build skill gap
+
+- **Evolution Actions**
+
+- If API documentation gap found: add the missing function or pattern to the appropriate api/ file
+- If common mistake pattern found: add it to Common Mistakes in [build/SKILL.md](../build/SKILL.md) or Common Discrepancies in [compare/SKILL.md](../compare/SKILL.md)
+- If procedure helper misunderstanding found: update [api/procedure.md](../api/procedure.md) with clarification
+- If constant usage error found: update [api/constants.md](../api/constants.md) or [api/consteffect.md](../api/consteffect.md) with usage notes
+- If made-up function/constant found: add explicit prohibition to [build/SKILL.md](../build/SKILL.md) Absolute Prohibitions section
+
+- **Verification**
+
+- After updating skill files, verify they are under 200 lines
+- Verify all updated files are linked from their parent SKILL.md
+- Re-run the comparison that triggered the evolution to confirm the gap is addressed
