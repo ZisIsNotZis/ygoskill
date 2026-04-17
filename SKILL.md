@@ -29,6 +29,9 @@ description: Comprehensive Yu-Gi-Oh! and YGOPro expertise. Reorganized skill tre
 - **[self-evolve/](self-evolve/SKILL.md)** — Meta skills
   - **[markdown-maintenance.md](self-evolve/markdown-maintenance.md)** — Markdown maintenance guidelines
   - **[skill-evolution.md](self-evolve/skill-evolution.md)** — Skill evolution process
+  - **[mdcheck.py](self-evolve/mdcheck.py)** — Markdown validation script
+  - **[catalogcheck.py](self-evolve/catalogcheck.py)** — Catalog validation script
+  - **[combocheck.py](self-evolve/combocheck.py)** — Combo validation script
 
 - **Strict Skill Adherence (Non-Negotiable)**
 
@@ -38,4 +41,6 @@ description: Comprehensive Yu-Gi-Oh! and YGOPro expertise. Reorganized skill tre
 - Never "auto-adapt" or work around a skill without updating the skill itself — fix the skill, not the symptom
 - Never do things beyond existing sub-skills without first creating the appropriate sub-skill
 - This cycle is fully automatic and unattended: follow skill → if wrong → update skill → re-follow
+- Run validation scripts before committing: mdcheck.py, catalogcheck.py, combocheck.py
+- All validation scripts must pass with zero errors
 - Read [self-evolve/markdown-maintenance.md](self-evolve/markdown-maintenance.md) before editing any markdown

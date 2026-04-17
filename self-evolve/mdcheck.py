@@ -16,7 +16,12 @@ MAX_LINES_PER_FILE = 200
 class MarkdownLinter:
     """Check markdown files for compliance with markdown-maintenance.md rules"""
 
-    def __init__(self, file_path):
+    _heading_pattern: re.Pattern
+    _numbered_list_pattern: re.Pattern
+    _checkbox_pattern: re.Pattern
+    _table_pattern: re.Pattern
+
+    def __init__(self, file_path: str) -> None:
         self.file_path = Path(file_path)
         self.errors = []
         self.warnings = []
@@ -127,13 +132,15 @@ def check_tree_structure(root_dir):
 
         if expected_parent is None:
             # This is a top-level markdown (should be linked from root)
-            if not (root_dir / "SKILL.md").read_text():
+            if not (root_dir / "SKILL.md").exists():
                 errors.append(f"Orphaned file not linked: {md_file}")
         else:
             # This is a sub-skill markdown - check if linked from parent
-            parent_content = expected_parent.read_text()
-            if rel_path.as_posix() not in parent_content:
-                errors.append(f"File not linked from parent: {md_file}")
+            parent_skill_file = expected_parent / "SKILL.md"
+            if parent_skill_file.exists():
+                parent_content = parent_skill_file.read_text()
+                if rel_path.as_posix() not in parent_content:
+                    errors.append(f"File not linked from parent: {md_file}")
 
     # Check naming convention: research, build, compare, self-evolve are folders
     naming_violations = []
