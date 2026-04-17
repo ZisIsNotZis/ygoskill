@@ -8,3 +8,4 @@
 - **[build/](build/SKILL.md)** — 5-step deck building
 - **[compare/](compare/SKILL.md)** — Deck comparison
 - **[self-evolve/](self-evolve/SKILL.md)** — Deck skill evolution
+- **[llm/](llm/SKILL.md)** — Machine learning and language models for decks

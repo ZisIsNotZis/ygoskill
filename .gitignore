@@ -1,0 +1,23 @@
+# DIY content — do not commit personal card data or images
+*.cdb
+*.sql
+pics/
+pico/
+pic/
+*.jpg
+*.webp
+*.png
+*.ypk
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~

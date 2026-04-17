@@ -5,4 +5,4 @@
 - **[banlist.md](banlist.md)** — Ban list structure and prediction
 - **[ranking.md](ranking.md)** — Meta tier analysis and tournament data
 - **[script/](script/SKILL.md)** — Script research, implementation, comparison
-- **[tools/](tools/)** — Common tool scripts
+- **[tools/](tools/SKILL.md)** — Tool scripts for deck, database, image, and crawler tasks
