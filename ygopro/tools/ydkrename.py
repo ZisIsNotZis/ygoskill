@@ -3,7 +3,7 @@ from sqlite3 import connect
 from re import compile
 from collections import Counter
 from typing import cast, Iterable
-from os import getenv, mkdir, listdir, link
+from os import getenv, mkdir, listdir, rename, remove
 from sys import argv
 from xxhash import xxh64_hexdigest
 
@@ -32,6 +32,7 @@ TXT = {i: tuple({i for i in {name, *(i.split('」')[0]for i in dsc.split('「')[
 for file in argv[1:]:
     deck = [i for i, j in sorted(Counter(int(i)for i in open(file, errors='ignore').read().split('!')[0].split()if i.isdigit()).items())for _ in range(min(j, 3))][:75]
     if not deck:
+        remove(file)
         continue
     txts = [i for i in deck for i in [TXT.get(i)]if i]
     name = '%04d' % max(DATE.get(i, 0)for i in deck)
@@ -44,8 +45,8 @@ for file in argv[1:]:
     mkdir_(name)
     name += f'/{xxh64_hexdigest('\n'.join(map(str, deck)).encode())}.ydk'
     if file != name:
-        print(name)
+        print(file, '->', name)
         try:
-            link(file, name)
+            rename(file, name)
         except FileExistsError:
-            pass
+            remove(file)
