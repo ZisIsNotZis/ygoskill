@@ -1,3 +1,7 @@
+---
+name: lua-api-reference
+description: YGOPro Lua API reference for Card, Effect, Group, Duel, and related objects
+---
 # Lua API Reference
 
 Source: ocgcore/scriptlib.h, ocgcore/libcard.cpp, ocgcore/libeffect.cpp, ocgcore/libgroup.cpp, ocgcore/libduel.cpp, ocgcore/libdebug.cpp, script/procedure.lua, script/constant.lua

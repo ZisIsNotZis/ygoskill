@@ -1,3 +1,7 @@
+---
+name: ygopro-script-self-evolve
+description: Script skill self-evolution based on comparison and debugging feedback
+---
 # Script Skill Evolution
 
 - **Goal**
@@ -16,10 +20,10 @@ Improve script implementation skills based on feedback from comparison and debug
 - **Evolution Actions**
 
 - If API documentation gap found: add the missing function or pattern to the appropriate api/ file
-- If common mistake pattern found: add it to Common Mistakes in [build/SKILL.md](../build/SKILL.md) or Common Discrepancies in [compare/SKILL.md](../compare/SKILL.md)
+- If common mistake pattern found: add it to Common Mistakes in [build/SKILL.md](../script-build/SKILL.md) or Common Discrepancies in [compare/SKILL.md](../script-compare/SKILL.md)
 - If procedure helper misunderstanding found: update [api/procedure.md](../api/procedure.md) with clarification
 - If constant usage error found: update [api/constants.md](../api/constants.md) or [api/consteffect.md](../api/consteffect.md) with usage notes
-- If made-up function/constant found: add explicit prohibition to [build/SKILL.md](../build/SKILL.md) Absolute Prohibitions section
+- If made-up function/constant found: add explicit prohibition to [build/SKILL.md](../script-build/SKILL.md) Absolute Prohibitions section
 
 - **Verification**
 

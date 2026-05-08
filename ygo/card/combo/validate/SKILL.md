@@ -1,3 +1,7 @@
+---
+name: combo-validate
+description: Combo validation rules and common pitfalls
+---
 # Combo Validation
 
 - **Per-Step Validation Rules**

@@ -42,8 +42,8 @@ Typical contents include:
 - **Integration Skills**
 
 Used primarily in:
-- `ygo/deck/research/SKILL.md` — For meta analysis and archetype identification
-- `ygo/deck/compare/SKILL.md` — For deck comparison and evaluation
+- `ygo/deck-research/SKILL.md` — For meta analysis and archetype identification
+- `ygo/deck-compare/SKILL.md` — For deck comparison and evaluation
 - `ygopro/ranking.md` — For tier list creation and validation
 
 - **Best Practices**

@@ -26,10 +26,10 @@ Read `SKILL.md` and follow the tree. Each sub-skill has its own `SKILL.md` with 
 
 ## Key Workflows
 
-- **Deck Building** — `ygo/deck/build/SKILL.md`: 5-step workflow from research to verification
+- **Deck Building** — `ygo/deck-build/SKILL.md`: 5-step workflow from research to verification
 - **Combo Design** — `ygo/deck/combo/SKILL.md`: 6-step workflow for discovering and validating combos
-- **Card Research** — `ygo/card/research/SKILL.md`: Database queries, script reading, online research
-- **Script Implementation** — `ygopro/script/build/SKILL.md`: Lua script creation for card effects
+- **Card Research** — `ygo/card-research/SKILL.md`: Database queries, script reading, online research
+- **Script Implementation** — `ygopro/script-build/SKILL.md`: Lua script creation for card effects
 
 ## Tools
 

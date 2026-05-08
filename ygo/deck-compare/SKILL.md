@@ -1,3 +1,7 @@
+---
+name: ygo-deck-compare
+description: Deck comparison workflow for match rate calculation and difference analysis
+---
 # Deck Comparison Workflow
 
 - **Pre-Comparison**

@@ -1,3 +1,7 @@
+---
+name: ygo-deck-research
+description: Deck research workflow for gathering references and classifying deck types
+---
 # Deck Research Workflow
 
 - **When to Use**

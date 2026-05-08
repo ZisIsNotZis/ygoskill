@@ -1,3 +1,7 @@
+---
+name: ygo-card-build
+description: DIY card design with power calibration and cost-benefit balance
+---
 # DIY Card Design
 
 - **Power Level Calibration**

@@ -1,3 +1,7 @@
+---
+name: ygo-card-self-evolve
+description: Card skill self-evolution based on design feedback and new set releases
+---
 # Card Skill Self-Evolve
 
 - **Feedback Loop**

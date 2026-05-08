@@ -1,3 +1,7 @@
+---
+name: combo-discover
+description: Combo discovery workflow with constraint checking and search strategies
+---
 # Combo Discovery
 
 - **Workflow**

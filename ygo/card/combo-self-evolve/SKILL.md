@@ -1,3 +1,7 @@
+---
+name: ygo-card-combo-self-evolve
+description: Combo skill self-evolution based on validation failures and new patterns
+---
 # Combo Skill Self-Evolution
 
 - **Evolution Triggers**

@@ -1,3 +1,7 @@
+---
+name: ygo-card-research
+description: Card research workflow for querying card database and analyzing card effects
+---
 # Card Research Workflow
 
 - **When to Use**

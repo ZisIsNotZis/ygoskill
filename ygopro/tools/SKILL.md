@@ -1,3 +1,7 @@
+---
+name: tool-scripts
+description: Tool scripts for deck, database, image, and crawler tasks
+---
 # Tool Scripts
 
 ## Deck Tools

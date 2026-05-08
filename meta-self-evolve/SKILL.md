@@ -1,3 +1,7 @@
+---
+name: meta-self-evolve
+description: Self-evolution for the entire YGO skill tree
+---
 # Self-Evolve Skills
 
 - **Purpose**

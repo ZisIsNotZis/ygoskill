@@ -1,3 +1,7 @@
+---
+name: ygopro-script-compare
+description: Script comparison and debugging against reference implementations
+---
 # Script Comparison and Debugging
 
 - **Goal**
@@ -6,11 +10,11 @@ Compare a script implementation against the real reference script. This is a man
 
 - **Comparison Loop (Non-Negotiable)**
 
-- Step 1: Implement the card strictly following [build/SKILL.md](../build/SKILL.md)
+- Step 1: Implement the card strictly following [build/SKILL.md](../script-build/SKILL.md)
 - Step 2: Double-check your implementation — this is a dedicated non-skippable step, pay special attention to all caveats
 - Step 3: Compare with the real script at script/c<card_id>.lua — write down ALL differences unconditionally, no matter how small
 - Step 4: For each difference, analyze: why is it different? Is it functionality, style, or helper usage? Is your way even correct? Why didn't you write like the reference? Were you strictly following the guideline? If yes and your way is problematic, how should the guideline change? If no, why didn't you follow it?
-- Step 5: Update [build/SKILL.md](../build/SKILL.md) or other skill markdowns if the comparison revealed a guideline gap
+- Step 5: Update [build/SKILL.md](../script-build/SKILL.md) or other skill markdowns if the comparison revealed a guideline gap
 - Step 6: Re-implement the card from scratch, strictly following the (possibly updated) guideline. Repeat steps 2-5 until no differences remain, or remaining differences are acceptable (old/new style equivalent, etc.)
 - The final file left must be 100% correct and verifiable. Leave inline comments for every edit made during the loop for audit trail.
 

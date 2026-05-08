@@ -1,3 +1,7 @@
+---
+name: card-catalogs
+description: Card catalog definitions and file structure
+---
 # Card Catalogs
 
 - **Catalog Definitions**

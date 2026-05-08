@@ -1,3 +1,7 @@
+---
+name: ygopro-script-build
+description: Script implementation workflow for YGOPro Lua card effects
+---
 # Script Build Workflow
 
 - **Goal**

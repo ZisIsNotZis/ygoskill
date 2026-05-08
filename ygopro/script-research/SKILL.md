@@ -1,3 +1,7 @@
+---
+name: ygopro-script-research
+description: Script research workflow for analyzing existing YGOPro Lua scripts
+---
 # Script Research Workflow
 
 - **Goal**

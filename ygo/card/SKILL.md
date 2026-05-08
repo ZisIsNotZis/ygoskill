@@ -1,3 +1,7 @@
+---
+name: card-skills
+description: Card research, DIY design, and comparison
+---
 # Card Skills
 
 - **[catalog/](catalog/SKILL.md)** — Card catalogs by function
@@ -5,7 +9,7 @@
 - **[build/](build/SKILL.md)** — Card design
 - **[compare/](compare/SKILL.md)** — Card comparison
 - **[combo/](combo/SKILL.md)** — Combo discovery and validation
-- **[self-evolve/](self-evolve/SKILL.md)** — Card skill evolution
+- **[self-evolve/](../card-self-evolve/SKILL.md)** — Card skill evolution
 
 - **Acceptance Criteria**
 

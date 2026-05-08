@@ -1,3 +1,7 @@
+---
+name: ygo-card-compare
+description: Card comparison for power level calibration of custom card designs
+---
 # Card Comparison
 
 Compare a custom card design against existing cards of similar function to calibrate power level.

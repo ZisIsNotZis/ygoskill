@@ -1,3 +1,7 @@
+---
+name: ygo-deck-build
+description: Deck building 5-step workflow with quantitative verification
+---
 # Deck Building 5-Step Workflow
 
 - **Pre-Build Checklist (Non-Negotiable)**
@@ -6,7 +10,7 @@ Before writing any card ID into the YDK file, verify ALL of the following for ea
 
 - **Step 0: Identify Deck Type and Gather References**
 
-Search local YDK files by filename and content, search online for tournament results and meta rankings, classify deck as Control, Combo/Expand, or OTK using criteria in [../research/SKILL.md](../research/SKILL.md). Pass: deck type identified with 3 or more pieces of evidence. Pitfall: single reference may be a minority variant, always verify with multiple references from local and online sources.
+Search local YDK files by filename and content, search online for tournament results and meta rankings, classify deck as Control, Combo/Expand, or OTK using criteria in [../deck-research/SKILL.md](../research/SKILL.md). Pass: deck type identified with 3 or more pieces of evidence. Pitfall: single reference may be a minority variant, always verify with multiple references from local and online sources.
 
 - **Step 1: Determine Core**
 
