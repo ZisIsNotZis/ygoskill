@@ -27,20 +27,14 @@ description: Comprehensive Yu-Gi-Oh! and YGOPro expertise. Reorganized skill tre
     - **[self-evolve/](ygopro/script-self-evolve/SKILL.md)** — Script skill evolution
   - **[tools/](ygopro/tools/)** — Common tool scripts
 - **[self-evolve/](meta-self-evolve/SKILL.md)** — Meta skills
-  - **[markdown-maintenance.md](self-evolve/markdown-maintenance.md)** — Markdown maintenance guidelines
-  - **[skill-evolution.md](self-evolve/skill-evolution.md)** — Skill evolution process
-  - **[mdcheck.py](self-evolve/mdcheck.py)** — Markdown validation script
-  - **[catalogcheck.py](self-evolve/catalogcheck.py)** — Catalog validation script
-  - **[combocheck.py](self-evolve/combocheck.py)** — Combo validation script
+  - **[markdown-maintenance.md](meta-self-evolve/markdown-maintenance.md)** — Markdown maintenance guidelines
+  - **[skill-evolution.md](meta-self-evolve/skill-evolution.md)** — Skill evolution process
+  - **[mdcheck.py](meta-self-evolve/mdcheck.py)** — Markdown validation script
+  - **[catalogcheck.py](meta-self-evolve/catalogcheck.py)** — Catalog validation script
+  - **[combocheck.py](meta-self-evolve/combocheck.py)** — Combo validation script
 
-- **Strict Skill Adherence (Non-Negotiable)**
+- **Strict Skill Adherence**
 
-- Do EVERYTHING strictly adhering to the relevant skill/workflow, no improvisation, no shortcuts, no "I know better"
-- If no skill/workflow exists for what you need, research, plan, and CREATE one first, then follow it
-- If you strictly followed a skill/workflow and the result is wrong or the user is unhappy, the skill is wrong, not you — update the root-cause skill immediately
-- Never "auto-adapt" or work around a skill without updating the skill itself — fix the skill, not the symptom
-- Never do things beyond existing sub-skills without first creating the appropriate sub-skill
-- This cycle is fully automatic and unattended: follow skill → if wrong → update skill → re-follow
-- Run validation scripts before committing: mdcheck.py, catalogcheck.py, combocheck.py
-- All validation scripts must pass with zero errors
-- Read [self-evolve/markdown-maintenance.md](self-evolve/markdown-maintenance.md) before editing any markdown
+See [meta-self-evolve/adherence.md](meta-self-evolve/adherence.md) for adherence rules.
+Run validation scripts before committing: mdcheck.py, catalogcheck.py, combocheck.py (zero errors).
+Read [meta-self-evolve/markdown-maintenance.md](meta-self-evolve/markdown-maintenance.md) before editing any markdown.

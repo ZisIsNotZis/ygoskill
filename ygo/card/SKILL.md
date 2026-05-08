@@ -13,10 +13,5 @@ description: Card research, DIY design, and comparison
 
 - **Acceptance Criteria**
 
-  - AC: Run mdcheck.py validation script with zero errors
-  - AC: Run catalogcheck.py validation script with zero errors  
-  - AC: Run combocheck.py validation script with zero errors
-  - AC: All markdown files under 200 lines
-  - AC: All files use bullet points only (no numbered lists, tables, or checkboxes)
-  - AC: All files properly linked in tree structure
-  - AC: No duplicate or conflicting content in any markdown file
+  - AC: Run mdcheck.py, catalogcheck.py, combocheck.py validation scripts with zero errors
+  - AC: All markdown files under 200 lines, bullet points only, properly linked

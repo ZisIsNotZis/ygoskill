@@ -6,7 +6,7 @@ description: DIY card design with power calibration and cost-benefit balance
 
 - **Power Level Calibration**
 
-Compare designed card to existing cards of similar function and categorize as limited or banned meaning too efficient with no restrictions, competitive staple meaning strong but has costs or restrictions, competitive playable meaning good in specific decks, casual playable meaning niche use with moderate efficiency, or unplayable meaning too slow or costly or narrow.
+Compare designed card to existing cards of similar function and categorize as limited or banned (too efficient with no restrictions), competitive staple (strong but has costs or restrictions), competitive playable (good in specific decks), casual playable (niche use with moderate efficiency), or unplayable (too slow or costly or narrow).
 
 - **Cost-Benefit Balance**
 
@@ -21,11 +21,11 @@ Compare designed card to existing cards of similar function and categorize as li
 
 - **Design Templates**
 
-Hand Trap Negate: Monster Effect Level 3 to 4, ATK/DEF low around 0/1800, effect reads when opponent activates a card or effect meeting condition during Quick Effect send this card from hand to graveyard negate the activation and if you do destroy it, you can only use this effect once per turn, add specific restriction like type or attribute or race or effect category.
+Hand Trap Negator: Monster Level 3-4, ATK/DEF low (~0/1800). Effect: when opponent activates a card/effect meeting condition, quick effect: send this card from hand to graveyard, negate the activation, and if you do, destroy it. Once per turn. Add type/attribute/race/effect category restriction.
 
-Archetype Searcher: Monster or Spell or Trap, effect reads you may condition then add one card with archetype name from deck to hand that meets restrictions, you can only use this effect once per turn, add narrow search target and specific condition.
+Archetype Searcher: Monster/Spell/Trap. Effect: you may [pay cost] then add 1 card with archetype name from Deck to hand that meets restrictions. Once per turn. Use narrow search target and specific condition.
 
-Extra Deck Boss: Fusion or Synchro or Xyz or Link, material requirements listed, optional quick effect powerful effect once per turn, secondary effect triggered by specific condition once per turn, power level matched to material difficulty.
+Extra Deck Boss: Fusion/Synchro/Xyz/Link, material requirements listed, optional Quick Effect powerful effect once per turn, secondary effect triggered by specific condition once per turn, power level matched to material difficulty.
 
 - **Wording Standards**
 
@@ -35,7 +35,7 @@ Extra Deck Boss: Fusion or Synchro or Xyz or Link, material requirements listed,
 - You can only use this effect of Card Name once per turn means per-card once per turn allowing other copies to activate
 - If means non-chainable condition
 - When means chainable condition
-- and if you do means sequential dependency second part only resolves if first completed
+- and if you do means sequential dependency (second part only resolves if first completed)
 - also means simultaneous resolution
 - then means sequential resolution
 
@@ -45,11 +45,22 @@ Extra Deck Boss: Fusion or Synchro or Xyz or Link, material requirements listed,
 - Research similar cards using script search for CATEGORY flags or database query by setcode
 - Design card stats: name, 8-digit password for ID, type, subtype, level or rank, attribute, race, ATK/DEF, link rating and markers if Link, setcode
 - Design effects: type, trigger or condition, cost, target, resolution, restriction
-- Balance check: find 3 to 5 cards with similar effects, compare costs restrictions and power levels, ensure designed card is not strictly better than existing options
-- If implementing as script follow script implementation guide using password as filename c<password>.lua
+- Balance check: find 3-5 cards with similar effects, compare costs/restrictions/power levels, ensure designed card is not strictly better than existing options
+- If implementing as script, follow script implementation guide using password as filename c<password>.lua
 
 - **Red Flags**
 
 Overpowered: no once per turn on powerful effects, unconditional negate without significant cost, searches any card without restriction, mass removal without cost or condition, draws cards without cost, special summons with no requirement.
 
 Underpowered: costs exceed effect value, overly narrow conditions that rarely trigger, effects too slow for current meta, restrictions that make card unusable, stats too low for level or rank.
+
+- **Output Format**
+
+  Card name: {name}
+  Type: {Monster/Spell/Trap}
+  Level/Rank/Link: {value}
+  Attribute/Race: {value}
+  ATK/DEF: {value}/{value}
+  Effect: {full effect text}
+  Power level: {limited/banned/competitive_staple/competitive_playable/casual_playable/unplayable}
+  Comparison: {card_name} -- {balanced/overpowered/underpowered}, {reason}

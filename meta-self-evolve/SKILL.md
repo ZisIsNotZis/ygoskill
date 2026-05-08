@@ -7,17 +7,8 @@ description: Self-evolution for the entire YGO skill tree
 - **Purpose**
 
 - This skill ensures the entire skill tree stays organized, consistent, and strictly followed
-- It does NOT care about domain knowledge itself — that is each sub-skill's self-evolve responsibility
+- It does NOT care about domain knowledge itself -- that is each sub-skill's self-evolve responsibility
 - Focus: tree structure, file quality, strict adherence enforcement, gap detection
-
-- **Strict Adherence Rules (Non-Negotiable)**
-
-- Do EVERYTHING strictly adhering to the relevant skill/workflow — no improvisation, no shortcuts
-- If no skill/workflow exists for what you need, research, plan, and CREATE one first, then follow it
-- If you strictly followed a skill/workflow and the result is wrong or the user is unhappy, the skill is wrong — update the root-cause skill immediately
-- Never "auto-adapt" or work around a skill without updating the skill itself — fix the skill, not the symptom
-- Never do things beyond existing sub-skills without first creating the appropriate sub-skill
-- This cycle is fully automatic and unattended: follow skill → if wrong → update skill → re-follow
 
 - **Organizational Self-Evolution Workflow**
 
@@ -30,5 +21,7 @@ description: Self-evolution for the entire YGO skill tree
 
 - **Sub-Skills**
 
-- **[markdown-maintenance.md](markdown-maintenance.md)** — Guidelines for organizing and maintaining all markdown files
-- **[skill-evolution.md](skill-evolution.md)** — How skills evolve during use and background loops
+- **[adherence.md](adherence.md)** -- Strict skill adherence rules (shared by all self-evolve skills)
+- **[self-evaluate-template.md](self-evaluate-template.md)** -- Shared SMART loop template for all self-evolve skills (referenced by card-self-evolve, deck-self-evolve, script-self-evolve)
+- **[markdown-maintenance.md](markdown-maintenance.md)** -- Guidelines for organizing and maintaining all markdown files
+- **[skill-evolution.md](skill-evolution.md)** -- How skills evolve during use and background loops

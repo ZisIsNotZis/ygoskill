@@ -30,6 +30,12 @@ From ydkshow consensus cards with mean at 2.0 or above and q90 at 3 are core, fr
 
 Determine current tier placement, top matchup strengths and weaknesses, recent ban list impact on the archetype, and emerging tech cards or variants in the current environment.
 
-- **Output**
+- **Output Format**
 
-Deck type classification with evidence, N core cards with X from setcode Y, meta position as tier and meta share percentage, list of key variants found, current meta hand trap configuration, and notable tech cards with rationale.
+  Deck type: {Control/Combo/OTK}
+  Evidence: {3+ pieces of evidence}
+  Core cards: {N} cards from {series} (setcode {code})
+  Meta position: Tier {X} ({percent}% meta share)
+  Key variants: {list}
+  Hand trap config: {cards}
+  Tech cards: {card} ({rationale})

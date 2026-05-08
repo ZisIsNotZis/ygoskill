@@ -2,6 +2,7 @@
 name: deck-llm
 description: Machine learning for deck analysis using PyTorch neural networks
 ---
+<!-- REFERENCE: not a workflow skill — documentation for ML utilities, not an instruction to follow -->
 # Deck LLM (Language Model)
 
 - **Purpose**
@@ -63,8 +64,8 @@ description: Machine learning for deck analysis using PyTorch neural networks
 
   Used by:
   - `ygo/card-build/SKILL.md` — For ML-assisted card design
-  - `ygo/deck/analyze/SKILL.md` — For deck pattern recognition
-  - `ygo/meta/predict/SKILL.md` — For meta trend prediction
+  - `ygo/deck-compare/SKILL.md` — For deck pattern recognition
+  - `ygopro/ranking.md` — For meta trend prediction
   
 - **Customization**
 

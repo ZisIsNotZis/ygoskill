@@ -1,24 +1,46 @@
 ---
 name: ygo-card-self-evolve
-description: Card skill self-evolution based on design feedback and new set releases
+description: Card skill self-evolution based on validation failures and comparison issues
 ---
-# Card Skill Self-Evolve
+# Card Skill Self-Evolution
 
-- **Feedback Loop**
+See [../../meta-self-evolve/adherence.md](../../meta-self-evolve/adherence.md) for strict adherence rules.
+- **Loop Template**: See [../../meta-self-evolve/self-evaluate-template.md](../../meta-self-evolve/self-evaluate-template.md) for the shared SMART loop. Override steps 1 and 6 with domain-specific details.
 
-- When designing or analyzing cards follow build guidelines then compare against existing cards
-- If user feedback indicates the designed card is imbalanced or strictly better or worse than intended, update the design templates in build/SKILL.md
-- If new card patterns emerge from new OCG set releases, research the pattern and update catalog files
+- **SMART Self-Evaluation-Evolve Loop (Non-Negotiable)**
 
-- **Background Research Loop**
+- Step 1: Build/review a card strictly following [build/SKILL.md](../card-build/SKILL.md) workflow
+- Step 2: Run mdcheck.py, catalogcheck.py, combocheck.py -- dedicated non-skippable verification, every error must be resolved
+- Step 3: Compare with reference cards following [compare/SKILL.md](../card-compare/SKILL.md) -- write down ALL differences unconditionally
+- Step 4: For each failure or systematic difference, analyze: which step in the workflow caused it? Is the threshold in the catalog wrong? Were you strictly following the guideline? If yes and result is wrong, how should the guideline change?
+- Step 5: Update the root-cause skill file -- [build/SKILL.md](../card-build/SKILL.md), [compare/SKILL.md](../card-compare/SKILL.md), or catalog files
+- Step 6: Re-build the card from scratch following the updated workflow, repeat steps 2-5 until all checks pass and comparison match rate is acceptable
 
-- Pick a recently released set and check yugioh wiki for latest
-- Identify new mechanics or effect patterns not covered in existing catalogs
-- Add new entries to catalog files if they fit existing categories or create new categories if needed
-- Update design templates if new patterns change power level calibration
+- **Triggers**
 
-- **Triggered Updates**
+- mdcheck.py returns errors after strictly following card-build/SKILL.md -- build skill gap
+- Validation score below threshold after following card-build/SKILL.md -- catalog or build skill gap
+- Comparison match rate below 50 percent -- build skill gap in core identification or card selection
+- Card catalog missing a key card -- catalog data gap, update catalog files
+- Combo validation fails -- discover or validate skill gap
+- Power level calibration wrong -- compare or build skill gap
 
-- New ban list: update card catalog lim columns and reassess power levels of affected cards
-- New set release: scan for new mechanics and update catalogs and design templates
-- User reports card interaction issue: research verify and update relevant section
+- **Evolution Actions**
+
+- If build workflow step is ambiguous or missing: add clarification to [build/SKILL.md](../card-build/SKILL.md)
+- If catalog entry is missing or wrong: update the appropriate catalog file under [card/catalog/](../catalog/SKILL.md)
+- If comparison workflow has gap: update [compare/SKILL.md](../card-compare/SKILL.md)
+- If combo validation rules are wrong: update [validate/SKILL.md](../combo/validate/SKILL.md)
+
+- **Verification**
+
+- After updating skill files, verify they are under 200 lines per [markdown-maintenance.md](../../meta-self-evolve/markdown-maintenance.md)
+- Verify all updated files are linked from their parent SKILL.md
+- Re-run validation scripts on the card that triggered the evolution to confirm the gap is addressed
+
+- **Output Format**
+
+  Action: {update build / update catalog / update compare / update validate}
+  File: {path}
+  Change: {1-line summary}
+  Evidence: {validation result before/after}

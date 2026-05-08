@@ -4,18 +4,21 @@ description: Script skill self-evolution based on comparison and debugging feedb
 ---
 # Script Skill Evolution
 
+See [../../meta-self-evolve/adherence.md](../../meta-self-evolve/adherence.md) for strict adherence rules.
+- **Loop Template**: See [../../meta-self-evolve/self-evaluate-template.md](../../meta-self-evolve/self-evaluate-template.md) for the shared SMART loop. Override steps 1 and 6 with domain-specific details.
+
 - **Goal**
 
-Improve script implementation skills based on feedback from comparison and debugging results. When a skill is strictly followed but produces wrong results, the skill is wrong — update it immediately.
+Improve script implementation skills based on feedback from comparison and debugging results. When a skill is strictly followed but produces wrong results, the skill is wrong -- update it immediately.
 
 - **Triggers**
 
 - Script comparison reveals systematic errors in a category (event codes, effect types, helper usage, scoping)
-- Comparison reveals a made-up function or constant — this is a critical failure, the build skill must be updated
+- Comparison reveals a made-up function or constant -- critical failure, the build skill must be updated
 - Debugging session reveals an API function or pattern not documented in [api/](../api/SKILL.md)
 - User reports a script implementation that does not match real card behavior
-- Multi-effect card was implemented as single merged effect — build skill gap
-- Targeting effects missing EFFECT_FLAG_CARD_TARGET or chkc check — build skill gap
+- Multi-effect card was implemented as single merged effect -- build skill gap
+- Targeting effects missing EFFECT_FLAG_CARD_TARGET or chkc check -- build skill gap
 
 - **Evolution Actions**
 
@@ -30,3 +33,10 @@ Improve script implementation skills based on feedback from comparison and debug
 - After updating skill files, verify they are under 200 lines
 - Verify all updated files are linked from their parent SKILL.md
 - Re-run the comparison that triggered the evolution to confirm the gap is addressed
+
+- **Output Format**
+
+  Action: {update api / update build / update compare / update constants / update procedure}
+  File: {path}
+  Change: {1-line summary}
+  Evidence: {comparison result before/after}

@@ -8,7 +8,7 @@ description: Combo validation rules and common pitfalls
 
   - Verify summon legality: materials on field, correct count, correct attribute/race/type
   - Verify effect activation conditions: timing, cost, once-per-turn, hard once-per-turn
-  - Verify card source: deck cards ≠ extra deck cards; grave effects require card in grave first
+  - Verify card source: deck cards != extra deck cards; grave effects require card in grave first
   - Verify effect resolution order: effects in same chain resolve in reverse order; triggered effects queue
   - Verify phase restrictions: some effects only in Main Phase, opponent's turn, battle phase, etc.
   - Verify resource accounting: each card can only be used once per step; materials leave the field on Link/Fusion/Xyz summon
@@ -24,3 +24,15 @@ description: Combo validation rules and common pitfalls
   - Activating graveyard effects without meeting their specific conditions (e.g., "other" monster in grave)
   - Stopping the combo prematurely when further valid steps exist
   - Skipping effect reads and guessing what a card does
+
+- **Output Format**
+
+  Combo: {combo name}
+  Validation: {pass/fail}
+  Errors:
+    - Step {N}: {rule violated} — {correction}
+  Pitfalls triggered:
+    - {pitfall name} at step {N}
+  Corrected steps:
+    - Step {N}: {corrected action}
+  Final verdict: {pass with corrections / fail — too many errors / unfixable}

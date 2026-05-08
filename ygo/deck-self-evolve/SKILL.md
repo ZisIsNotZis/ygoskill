@@ -4,12 +4,8 @@ description: Deck skill self-evolution based on ydkcheck.py failures and compari
 ---
 # Deck Skill Self-Evolve
 
-- **Core Principle: The Skill Is Always the Root Cause**
-
-- If you strictly followed the deck building workflow and the result fails ydkcheck.py or comparison reveals systematic issues, the skill is wrong — update it immediately
-- Never silently adapt or work around a skill — always update the root-cause skill first
-- Never build beyond existing sub-skills without first creating the appropriate sub-skill
-- This is fully automatic and unattended: follow skill → detect failure → update skill → re-follow
+- See **[meta-self-evolve/adherence.md](../../meta-self-evolve/adherence.md)** for strict adherence rules.
+- **Loop Template**: See **[meta-self-evolve/self-evaluate-template.md](../../meta-self-evolve/self-evaluate-template.md)** for the shared SMART loop. Override steps 1 and 6 with domain-specific details.
 
 - **SMART Self-Evaluation-Evolve Loop (Non-Negotiable)**
 
@@ -48,3 +44,9 @@ description: Deck skill self-evolution based on ydkcheck.py failures and compari
 - After updating skill files, verify they are under 200 lines per [self-evolve/markdown-maintenance.md](../../../meta-self-evolve/markdown-maintenance.md)
 - Verify all updated files are linked from their parent SKILL.md
 - Re-run ydkcheck.py on the deck that triggered the evolution to confirm the gap is addressed
+- **Output Format**
+
+  Action: {update build / update compare / update metrics / update engines / update catalog}
+  File: {path}
+  Change: {1-line summary}
+  Evidence: {validation result before/after}

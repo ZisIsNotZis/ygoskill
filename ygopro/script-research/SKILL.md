@@ -20,13 +20,23 @@ Research an existing YGOPro Lua script to understand how a card effect is implem
 
 - **Key Reference Files**
 
-- script/constant.lua — all constant definitions
-- script/utility.lua — commonly used helper functions (aux namespace)
-- script/procedure.lua — summoning procedure helpers
-- script/c*.lua — individual card scripts
+- script/constant.lua -- all constant definitions
+- script/utility.lua -- commonly used helper functions (aux namespace)
+- script/procedure.lua -- summoning procedure helpers
+- script/c*.lua -- individual card scripts
 
 - **Common Patterns to Look For**
 
 - Card scripts follow the pattern: local card ID variable, initial_effect function, effect registration with SetCode/SetType/SetRange/SetCondition/SetCost/SetTarget/SetOperation
 - Filter functions typically named cXXXXX.filter, condition functions cXXXXX.condition, target functions cXXXXX.target, operation functions cXXXXX.activate
 - aux namespace (not Auxiliary) is the standard alias for utility functions
+
+- **Output Format**
+
+  Card: {name} (ID: {id})
+  Effects:
+    - Effect 1: type={EFFECT_TYPE_*}, event={EVENT_*}, callbacks={condition/cost/target/operation}
+    - Effect 2: ...
+  API functions used: {list}
+  Constants used: {list}
+  Procedure helpers: {list}
