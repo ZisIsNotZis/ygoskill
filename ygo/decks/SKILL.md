@@ -38,6 +38,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[gemknight/](gemknight/SKILL.md)** — 宝石骑士 (Gem-Knight) deck experience
 - **[ghostrick/](ghostrick/SKILL.md)** — 鬼计 (Ghostrick) deck experience
 - **[gladiatorbeast/](gladiatorbeast/SKILL.md)** — 剑斗兽 (Gladiator Beast) deck experience
+- **[gunkansuship/](gunkansuship/SKILL.md)** — 军贯 (Gunkan Suship) deck experience
 - **[herald/](herald/SKILL.md)** — 宣告者 (Herald) deck experience
 - **[hero/](hero/SKILL.md)** — 英雄 (HERO) deck experience
 - **[hieratic/](hieratic/SKILL.md)** — 圣刻 (Hieratic) deck experience
@@ -101,6 +102,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[voicelessvoice/](voicelessvoice/SKILL.md)** — 肃声 (Voiceless Voice) deck experience
 - **[whiteforest/](whiteforest/SKILL.md)** — 白森林 (White Forest) deck experience
 - **[witchcrafter/](witchcrafter/SKILL.md)** — 魔女术 (Witchcrafter) deck experience
+- **[worldlegacy/](worldlegacy/SKILL.md)** — 世界 (World Legacy) deck experience
 - **[yangzing/](yangzing/SKILL.md)** — 龙星 (Yang Zing) deck experience
 - **[yosenju/](yosenju/SKILL.md)** — 妖仙 (Yosenju) deck experience
 - **[yubel/](yubel/SKILL.md)** — 于贝尔 (Yubel) deck experience
