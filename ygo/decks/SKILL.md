@@ -25,11 +25,13 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[dinomorphia/](dinomorphia/SKILL.md)** — 恐啡肽狂龙 (Dinomorphia) deck experience
 - **[dinosaur/](dinosaur/SKILL.md)** — 恐龙 (Dinosaur) deck experience
 - **[dragonmaid/](dragonmaid/SKILL.md)** — 半龙女仆 (Dragonmaid) deck experience
+- **[dragonpendulum/](dragonpendulum/SKILL.md)** — 龙剑士 (Dragon Pendulum) deck experience
 - **[dragunity/](dragunity/SKILL.md)** — 龙骑兵团 (Dragunity) deck experience
 - **[eldlich/](eldlich/SKILL.md)** — 黄金国巫妖 (Eldlich) deck experience
 - **[endymion/](endymion/SKILL.md)** — 恩底弥翁 (Endymion) deck experience
 - **[exosister/](exosister/SKILL.md)** — 救祓少女 (Exosister) deck experience
 - **[fabled/](fabled/SKILL.md)** — 魔轰神 (Fabled) deck experience
+- **[faytale/](faytale/SKILL.md)** — 妖精传姬 (Faytale) deck experience
 - **[fireking/](fireking/SKILL.md)** — 炎王 (Fire King) deck experience
 - **[galaxyeyes/](galaxyeyes/SKILL.md)** — 银河眼 (Galaxy-Eyes) deck experience
 - **[gemknight/](gemknight/SKILL.md)** — 宝石骑士 (Gem-Knight) deck experience
@@ -47,6 +49,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[labrynth/](labrynth/SKILL.md)** — 拉比林斯迷宫 (Labrynth) deck experience
 - **[livestwin/](livestwin/SKILL.md)** — 直播☆双子 (Live☆Twin) deck experience
 - **[lunalight/](lunalight/SKILL.md)** — 月光 (Lunalight) deck experience
+- **[machina/](machina/SKILL.md)** — 机甲 (Machina) deck experience
 - **[madolche/](madolche/SKILL.md)** — 魔偶甜点 (Madolche) deck experience
 - **[magibullet/](magibullet/SKILL.md)** — 魔弹 (Magibullet) deck experience
 - **[maliss/](maliss/SKILL.md)** — 码丽丝 (Maliss) deck experience
@@ -58,6 +61,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[monarch/](monarch/SKILL.md)** — 帝 (Monarch) deck experience
 - **[nekroz/](nekroz/SKILL.md)** — 影灵衣 (Nekroz) deck experience
 - **[nobleknight/](nobleknight/SKILL.md)** — 圣骑士 (Noble Knight) deck experience
+- **[oddeyes/](oddeyes/SKILL.md)** — 异色眼 (Odd-Eyes) deck experience
 - **[orcust/](orcust/SKILL.md)** — 自奏圣乐 (Orcust) deck experience
 - **[pendulummagician/](pendulummagician/SKILL.md)** — 魔术师 (Pendulum Magician) deck experience
 - **[performapal/](performapal/SKILL.md)** — 娱乐伙伴 (Performapal) deck experience
