@@ -33,12 +33,14 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[dragonmaid/](dragonmaid/SKILL.md)** — 半龙女仆 (Dragonmaid) deck experience
 - **[dragonpendulum/](dragonpendulum/SKILL.md)** — 龙剑士 (Dragon Pendulum) deck experience
 - **[dragunity/](dragunity/SKILL.md)** — 龙骑兵团 (Dragunity) deck experience
+- **[drytron/](drytron/SKILL.md)** — 龙辉巧 (Drytron) deck experience
 - **[eldlich/](eldlich/SKILL.md)** — 黄金国巫妖 (Eldlich) deck experience
 - **[endymion/](endymion/SKILL.md)** — 恩底弥翁 (Endymion) deck experience
 - **[evileye/](evileye/SKILL.md)** — 咒眼 (Evil Eye) deck experience
 - **[exosister/](exosister/SKILL.md)** — 救祓少女 (Exosister) deck experience
 - **[fabled/](fabled/SKILL.md)** — 魔轰神 (Fabled) deck experience
 - **[faytale/](faytale/SKILL.md)** — 妖精传姬 (Faytale) deck experience
+- **[fiendsmith/](fiendsmith/SKILL.md)** — 刻魔 (Fiendsmith) deck experience
 - **[fireking/](fireking/SKILL.md)** — 炎王 (Fire King) deck experience
 - **[galaxyeyes/](galaxyeyes/SKILL.md)** — 银河眼 (Galaxy-Eyes) deck experience
 - **[gemini/](gemini/SKILL.md)** — 二重 (Gemini) deck experience
