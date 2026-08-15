@@ -15,6 +15,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[altergeist/](altergeist/SKILL.md)** — 幻变骚灵 (Altergeist) deck experience
 - **[blueeyes/](blueeyes/SKILL.md)** — 青眼 (Blue-Eyes) deck experience
 - **[charmer/](charmer/SKILL.md)** — 灵使 (Charmer) deck experience
+- **[codetalker/](codetalker/SKILL.md)** — 码语者 (Code Talker) deck experience
 - **[constellar/](constellar/SKILL.md)** — 星圣 (Constellar) deck experience
 - **[cyberdragon/](cyberdragon/SKILL.md)** — 电子龙 (Cyber Dragon) deck experience
 - **[cyberse/](cyberse/SKILL.md)** — 电子界 (Cyberse) deck experience
@@ -38,6 +39,8 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[hero/](hero/SKILL.md)** — 英雄 (HERO) deck experience
 - **[hieratic/](hieratic/SKILL.md)** — 圣刻 (Hieratic) deck experience
 - **[icebarrier/](icebarrier/SKILL.md)** — 冰结界 (Ice Barrier) deck experience
+- **[ignister/](ignister/SKILL.md)** — @火灵天星 (@Ignister) deck experience
+- **[invoked/](invoked/SKILL.md)** — 召唤师·阿莱斯特 (Invoked) deck experience
 - **[junkstardust/](junkstardust/SKILL.md)** — 废品·星尘 (Junk-Stardust) deck experience
 - **[karakuri/](karakuri/SKILL.md)** — 机巧 (Karakuri) deck experience
 - **[kashtira/](kashtira/SKILL.md)** — 俱舍怒威族 (Kashtira) deck experience
@@ -67,6 +70,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[rokket/](rokket/SKILL.md)** — 弹丸 (Rokket) deck experience
 - **[runick/](runick/SKILL.md)** — 神碑 (Runick) deck experience
 - **[ryzeal/](ryzeal/SKILL.md)** — 雷火沸动 (Ryzeal) deck experience
+- **[salamangreat/](salamangreat/SKILL.md)** — 转生炎兽 (Salamangreat) deck experience
 - **[shaddoll/](shaddoll/SKILL.md)** — 影依 (Shaddoll) deck experience
 - **[sixsamurai/](sixsamurai/SKILL.md)** — 六武众 (Six Samurai) deck experience
 - **[skystriker/](skystriker/SKILL.md)** — 闪刀姬 (Sky Striker) deck experience
@@ -83,12 +87,14 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[tribrigade/](tribrigade/SKILL.md)** — 铁兽 (Tri-Brigade) deck experience
 - **[trickstar/](trickstar/SKILL.md)** — 淘气仙星 (Trickstar) deck experience
 - **[truedraco/](truedraco/SKILL.md)** — 真龙 (True Draco) deck experience
+- **[utopia/](utopia/SKILL.md)** — 霍普 (Utopia) deck experience
 - **[vendread/](vendread/SKILL.md)** — 复仇死者 (Vendread) deck experience
 - **[voicelessvoice/](voicelessvoice/SKILL.md)** — 肃声 (Voiceless Voice) deck experience
 - **[whiteforest/](whiteforest/SKILL.md)** — 白森林 (White Forest) deck experience
 - **[witchcrafter/](witchcrafter/SKILL.md)** — 魔女术 (Witchcrafter) deck experience
 - **[yangzing/](yangzing/SKILL.md)** — 龙星 (Yang Zing) deck experience
 - **[yosenju/](yosenju/SKILL.md)** — 妖仙 (Yosenju) deck experience
+- **[yubel/](yubel/SKILL.md)** — 于贝尔 (Yubel) deck experience
 - **[zoodiac/](zoodiac/SKILL.md)** — 十二兽 (Zoodiac) deck experience
 
 - **Conventions**
