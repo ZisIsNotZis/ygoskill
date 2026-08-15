@@ -34,6 +34,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[faytale/](faytale/SKILL.md)** — 妖精传姬 (Faytale) deck experience
 - **[fireking/](fireking/SKILL.md)** — 炎王 (Fire King) deck experience
 - **[galaxyeyes/](galaxyeyes/SKILL.md)** — 银河眼 (Galaxy-Eyes) deck experience
+- **[gemini/](gemini/SKILL.md)** — 二重 (Gemini) deck experience
 - **[gemknight/](gemknight/SKILL.md)** — 宝石骑士 (Gem-Knight) deck experience
 - **[ghostrick/](ghostrick/SKILL.md)** — 鬼计 (Ghostrick) deck experience
 - **[gladiatorbeast/](gladiatorbeast/SKILL.md)** — 剑斗兽 (Gladiator Beast) deck experience
@@ -101,6 +102,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[yangzing/](yangzing/SKILL.md)** — 龙星 (Yang Zing) deck experience
 - **[yosenju/](yosenju/SKILL.md)** — 妖仙 (Yosenju) deck experience
 - **[yubel/](yubel/SKILL.md)** — 于贝尔 (Yubel) deck experience
+- **[zombie/](zombie/SKILL.md)** — 不死 (Zombie) deck experience
 - **[zoodiac/](zoodiac/SKILL.md)** — 十二兽 (Zoodiac) deck experience
 
 - **Conventions**
