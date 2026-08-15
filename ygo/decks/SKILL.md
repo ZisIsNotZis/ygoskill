@@ -12,8 +12,12 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 
 - **Collections**
 - **[abyssactor/](abyssactor/SKILL.md)** — 魔界剧团 (Abyss Actor) deck experience
+- **[adventure/](adventure/SKILL.md)** — 勇者 (Adventure) deck experience
 - **[altergeist/](altergeist/SKILL.md)** — 幻变骚灵 (Altergeist) deck experience
+- **[assaultmode/](assaultmode/SKILL.md)** — 爆裂模式 (Assault Mode) deck experience
+- **[blackwing/](blackwing/SKILL.md)** — 黑羽 (Blackwing) deck experience
 - **[blueeyes/](blueeyes/SKILL.md)** — 青眼 (Blue-Eyes) deck experience
+- **[bystial/](bystial/SKILL.md)** — 深渊之兽 (Bystial) deck experience
 - **[charmer/](charmer/SKILL.md)** — 灵使 (Charmer) deck experience
 - **[codetalker/](codetalker/SKILL.md)** — 码语者 (Code Talker) deck experience
 - **[constellar/](constellar/SKILL.md)** — 星圣 (Constellar) deck experience
@@ -31,6 +35,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[dragunity/](dragunity/SKILL.md)** — 龙骑兵团 (Dragunity) deck experience
 - **[eldlich/](eldlich/SKILL.md)** — 黄金国巫妖 (Eldlich) deck experience
 - **[endymion/](endymion/SKILL.md)** — 恩底弥翁 (Endymion) deck experience
+- **[evileye/](evileye/SKILL.md)** — 咒眼 (Evil Eye) deck experience
 - **[exosister/](exosister/SKILL.md)** — 救祓少女 (Exosister) deck experience
 - **[fabled/](fabled/SKILL.md)** — 魔轰神 (Fabled) deck experience
 - **[faytale/](faytale/SKILL.md)** — 妖精传姬 (Faytale) deck experience
