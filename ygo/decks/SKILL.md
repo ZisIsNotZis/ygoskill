@@ -43,14 +43,18 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[kashtira/](kashtira/SKILL.md)** — 俱舍怒威族 (Kashtira) deck experience
 - **[labrynth/](labrynth/SKILL.md)** — 拉比林斯迷宫 (Labrynth) deck experience
 - **[livestwin/](livestwin/SKILL.md)** — 直播☆双子 (Live☆Twin) deck experience
+- **[lunalight/](lunalight/SKILL.md)** — 月光 (Lunalight) deck experience
 - **[madolche/](madolche/SKILL.md)** — 魔偶甜点 (Madolche) deck experience
 - **[magibullet/](magibullet/SKILL.md)** — 魔弹 (Magibullet) deck experience
 - **[maliss/](maliss/SKILL.md)** — 码丽丝 (Maliss) deck experience
 - **[mayakashi/](mayakashi/SKILL.md)** — 魔妖 (Mayakashi) deck experience
 - **[mechaphantombeast/](mechaphantombeast/SKILL.md)** — 幻兽机 (Mecha Phantom Beast) deck experience
+- **[meklord/](meklord/SKILL.md)** — 机皇 (Meklord) deck experience
+- **[mermail/](mermail/SKILL.md)** — 海皇水精鳞 (Mermail) deck experience
 - **[mikanko/](mikanko/SKILL.md)** — 御巫 (Mikanko) deck experience
 - **[monarch/](monarch/SKILL.md)** — 帝 (Monarch) deck experience
 - **[nekroz/](nekroz/SKILL.md)** — 影灵衣 (Nekroz) deck experience
+- **[nobleknight/](nobleknight/SKILL.md)** — 圣骑士 (Noble Knight) deck experience
 - **[orcust/](orcust/SKILL.md)** — 自奏圣乐 (Orcust) deck experience
 - **[pendulummagician/](pendulummagician/SKILL.md)** — 魔术师 (Pendulum Magician) deck experience
 - **[performapal/](performapal/SKILL.md)** — 娱乐伙伴 (Performapal) deck experience
@@ -78,11 +82,13 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[traptrix/](traptrix/SKILL.md)** — 虫惑魔 (Traptrix) deck experience
 - **[tribrigade/](tribrigade/SKILL.md)** — 铁兽 (Tri-Brigade) deck experience
 - **[trickstar/](trickstar/SKILL.md)** — 淘气仙星 (Trickstar) deck experience
+- **[truedraco/](truedraco/SKILL.md)** — 真龙 (True Draco) deck experience
 - **[vendread/](vendread/SKILL.md)** — 复仇死者 (Vendread) deck experience
 - **[voicelessvoice/](voicelessvoice/SKILL.md)** — 肃声 (Voiceless Voice) deck experience
 - **[whiteforest/](whiteforest/SKILL.md)** — 白森林 (White Forest) deck experience
 - **[witchcrafter/](witchcrafter/SKILL.md)** — 魔女术 (Witchcrafter) deck experience
 - **[yangzing/](yangzing/SKILL.md)** — 龙星 (Yang Zing) deck experience
+- **[yosenju/](yosenju/SKILL.md)** — 妖仙 (Yosenju) deck experience
 - **[zoodiac/](zoodiac/SKILL.md)** — 十二兽 (Zoodiac) deck experience
 
 - **Conventions**
