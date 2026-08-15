@@ -4,6 +4,8 @@ description: Deck research, building, and optimization
 ---
 # Deck Skills
 
+- **[engine-mechanics.md](engine-mechanics.md)** — How the YGOPro engine runs beneath the card text (zones, chains, summon procedures, advantage clock)
+- **[advantage.md](advantage.md)** — Game advantage, tempo, and resource/manipulation theory
 - **[engines.md](engines.md)** — Combo engines and mini-axes
 - **[rules.md](rules.md)** — Deck construction rules
 - **[metrics.md](metrics.md)** — Quantitative thresholds and quality scoring

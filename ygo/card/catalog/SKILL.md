@@ -21,3 +21,5 @@ description: Card catalog definitions and file structure
 - **[countertrap.md](countertrap.md)** — Counter cards
 - **[nht.md](nht.md)** — Non-Handtrap Interference monsters
 - **[genericextra.md](genericextra.md)** — Generic extra deck monsters
+- **[enginepatterns.md](enginepatterns.md)** — Recurring engine shapes across archetypes
+- **[summongeometries.md](summongeometries.md)** — Recurring extra-deck summon geometries
