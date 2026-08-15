@@ -19,6 +19,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[constellar/](constellar/SKILL.md)** — 星圣 (Constellar) deck experience
 - **[cyberdragon/](cyberdragon/SKILL.md)** — 电子龙 (Cyber Dragon) deck experience
 - **[cyberse/](cyberse/SKILL.md)** — 电子界 (Cyberse) deck experience
+- **[darklord/](darklord/SKILL.md)** — 堕天使 (Darklord) deck experience
 - **[darkmagician/](darkmagician/SKILL.md)** — 黑魔术师 (Dark Magician) deck experience
 - **[darkworld/](darkworld/SKILL.md)** — 暗黑界 (Dark World) deck experience
 - **[dd/](dd/SKILL.md)** — 契约书/D·D (D/D) deck experience
@@ -63,6 +64,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[meklord/](meklord/SKILL.md)** — 机皇 (Meklord) deck experience
 - **[mermail/](mermail/SKILL.md)** — 海皇水精鳞 (Mermail) deck experience
 - **[mikanko/](mikanko/SKILL.md)** — 御巫 (Mikanko) deck experience
+- **[millennium/](millennium/SKILL.md)** — 千年 (Millennium) deck experience
 - **[monarch/](monarch/SKILL.md)** — 帝 (Monarch) deck experience
 - **[nekroz/](nekroz/SKILL.md)** — 影灵衣 (Nekroz) deck experience
 - **[nobleknight/](nobleknight/SKILL.md)** — 圣骑士 (Noble Knight) deck experience
