@@ -77,6 +77,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[rokket/](rokket/SKILL.md)** — 弹丸 (Rokket) deck experience
 - **[runick/](runick/SKILL.md)** — 神碑 (Runick) deck experience
 - **[ryzeal/](ryzeal/SKILL.md)** — 雷火沸动 (Ryzeal) deck experience
+- **[sacredbeast/](sacredbeast/SKILL.md)** — 三幻魔 (Sacred Beasts) deck experience
 - **[salamangreat/](salamangreat/SKILL.md)** — 转生炎兽 (Salamangreat) deck experience
 - **[shaddoll/](shaddoll/SKILL.md)** — 影依 (Shaddoll) deck experience
 - **[sixsamurai/](sixsamurai/SKILL.md)** — 六武众 (Six Samurai) deck experience
@@ -94,6 +95,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[tribrigade/](tribrigade/SKILL.md)** — 铁兽 (Tri-Brigade) deck experience
 - **[trickstar/](trickstar/SKILL.md)** — 淘气仙星 (Trickstar) deck experience
 - **[truedraco/](truedraco/SKILL.md)** — 真龙 (True Draco) deck experience
+- **[unchained/](unchained/SKILL.md)** — 破械 (Unchained) deck experience
 - **[utopia/](utopia/SKILL.md)** — 霍普 (Utopia) deck experience
 - **[vendread/](vendread/SKILL.md)** — 复仇死者 (Vendread) deck experience
 - **[voicelessvoice/](voicelessvoice/SKILL.md)** — 肃声 (Voiceless Voice) deck experience
