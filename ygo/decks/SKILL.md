@@ -11,8 +11,10 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - Deck experience is game knowledge about a specific deck, distinct from deck research which classifies and compares decks
 
 - **Collections**
+- **[abyssactor/](abyssactor/SKILL.md)** — 魔界剧团 (Abyss Actor) deck experience
 - **[altergeist/](altergeist/SKILL.md)** — 幻变骚灵 (Altergeist) deck experience
 - **[blueeyes/](blueeyes/SKILL.md)** — 青眼 (Blue-Eyes) deck experience
+- **[charmer/](charmer/SKILL.md)** — 灵使 (Charmer) deck experience
 - **[constellar/](constellar/SKILL.md)** — 星圣 (Constellar) deck experience
 - **[cyberdragon/](cyberdragon/SKILL.md)** — 电子龙 (Cyber Dragon) deck experience
 - **[cyberse/](cyberse/SKILL.md)** — 电子界 (Cyberse) deck experience
@@ -20,6 +22,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[darkworld/](darkworld/SKILL.md)** — 暗黑界 (Dark World) deck experience
 - **[destructionsword/](destructionsword/SKILL.md)** — 破坏之剑士 (Destruction Sword) deck experience
 - **[dinomorphia/](dinomorphia/SKILL.md)** — 恐啡肽狂龙 (Dinomorphia) deck experience
+- **[dinosaur/](dinosaur/SKILL.md)** — 恐龙 (Dinosaur) deck experience
 - **[dragonmaid/](dragonmaid/SKILL.md)** — 半龙女仆 (Dragonmaid) deck experience
 - **[dragunity/](dragunity/SKILL.md)** — 龙骑兵团 (Dragunity) deck experience
 - **[eldlich/](eldlich/SKILL.md)** — 黄金国巫妖 (Eldlich) deck experience
@@ -35,6 +38,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[hero/](hero/SKILL.md)** — 英雄 (HERO) deck experience
 - **[hieratic/](hieratic/SKILL.md)** — 圣刻 (Hieratic) deck experience
 - **[icebarrier/](icebarrier/SKILL.md)** — 冰结界 (Ice Barrier) deck experience
+- **[junkstardust/](junkstardust/SKILL.md)** — 废品·星尘 (Junk-Stardust) deck experience
 - **[karakuri/](karakuri/SKILL.md)** — 机巧 (Karakuri) deck experience
 - **[kashtira/](kashtira/SKILL.md)** — 俱舍怒威族 (Kashtira) deck experience
 - **[labrynth/](labrynth/SKILL.md)** — 拉比林斯迷宫 (Labrynth) deck experience
@@ -51,6 +55,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[pendulummagician/](pendulummagician/SKILL.md)** — 魔术师 (Pendulum Magician) deck experience
 - **[performapal/](performapal/SKILL.md)** — 娱乐伙伴 (Performapal) deck experience
 - **[phantomknights/](phantomknights/SKILL.md)** — 幻影骑士团 (Phantom Knights) deck experience
+- **[plunderpatroll/](plunderpatroll/SKILL.md)** — 海造贼 (Plunder Patroll) deck experience
 - **[predaplant/](predaplant/SKILL.md)** — 捕食植物 (Predaplant) deck experience
 - **[qliphort/](qliphort/SKILL.md)** — 机壳 (Qliphort) deck experience
 - **[redeyes/](redeyes/SKILL.md)** — 真红眼 (Red-Eyes) deck experience
@@ -64,6 +69,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[spellbook/](spellbook/SKILL.md)** — 魔导书 (Spellbook) deck experience
 - **[spright/](spright/SKILL.md)** — 卫星闪灵 (Spright) deck experience
 - **[subterror/](subterror/SKILL.md)** — 机怪虫 (Subterror) deck experience
+- **[sunavalon/](sunavalon/SKILL.md)** — 圣天树 (Sunavalon) deck experience
 - **[swordsoul/](swordsoul/SKILL.md)** — 相剑 (Swordsoul) deck experience
 - **[tearlaments/](tearlaments/SKILL.md)** — 珠泪哀歌族 (Tearlaments) deck experience
 - **[tenpai/](tenpai/SKILL.md)** — 天杯龙 (Tenpai) deck experience
