@@ -25,3 +25,11 @@
 - research, build, compare, self-evolve are always folders containing a SKILL.md, not files
 - Hyphens shall not appear in any filename except self-evolve
 - Use spaces or camelCase for multi-word filenames
+
+- **Deck Experience Collections**
+
+- Per-deck experience lives under ygo/decks with one folder per deck and a SKILL.md inside, for example ygo/decks/exosister/SKILL.md
+- The ygo/decks/SKILL.md index lists every deck folder, each new deck folder must be added there and to the root SKILL.md tree
+- A deck experience file records deck identity, verified mechanics with card IDs, one-card combo baseline, named extenders, halt points, and common mistakes
+- Deck experience belongs under ygo because it is game knowledge, while ygopro holds engine and implementation knowledge
+- Cross-cutting synthesis from the deck corpus lives under ygo/deck (engine-mechanics.md, advantage.md, interruption-tactics.md) and ygo/card/catalog (enginepatterns.md, summongeometries.md); keep these in sync with the per-deck docs and never leave a per-deck doc orphaned from ygo/decks/SKILL.md
