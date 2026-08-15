@@ -1,0 +1,82 @@
+---
+name: deck-experience
+description: Per-deck experience collections covering mechanics, combos, and pitfalls
+---
+# Deck Experience Collections
+
+- **Purpose**
+
+- Collection of accumulated experience for a specific deck: core mechanics verified from scripts, one-card combos, extender lines, halt points, and common mistakes
+- One folder per deck under this directory, each with its own SKILL.md
+- Deck experience is game knowledge about a specific deck, distinct from deck research which classifies and compares decks
+
+- **Collections**
+- **[altergeist/](altergeist/SKILL.md)** — 幻变骚灵 (Altergeist) deck experience
+- **[blueeyes/](blueeyes/SKILL.md)** — 青眼 (Blue-Eyes) deck experience
+- **[constellar/](constellar/SKILL.md)** — 星圣 (Constellar) deck experience
+- **[cyberse/](cyberse/SKILL.md)** — 电子界 (Cyberse) deck experience
+- **[darkmagician/](darkmagician/SKILL.md)** — 黑魔术师 (Dark Magician) deck experience
+- **[darkworld/](darkworld/SKILL.md)** — 暗黑界 (Dark World) deck experience
+- **[dinomorphia/](dinomorphia/SKILL.md)** — 恐啡肽狂龙 (Dinomorphia) deck experience
+- **[dragonmaid/](dragonmaid/SKILL.md)** — 半龙女仆 (Dragonmaid) deck experience
+- **[dragunity/](dragunity/SKILL.md)** — 龙骑兵团 (Dragunity) deck experience
+- **[eldlich/](eldlich/SKILL.md)** — 黄金国巫妖 (Eldlich) deck experience
+- **[endymion/](endymion/SKILL.md)** — 恩底弥翁 (Endymion) deck experience
+- **[exosister/](exosister/SKILL.md)** — 救祓少女 (Exosister) deck experience
+- **[fabled/](fabled/SKILL.md)** — 魔轰神 (Fabled) deck experience
+- **[fireking/](fireking/SKILL.md)** — 炎王 (Fire King) deck experience
+- **[galaxyeyes/](galaxyeyes/SKILL.md)** — 银河眼 (Galaxy-Eyes) deck experience
+- **[gemknight/](gemknight/SKILL.md)** — 宝石骑士 (Gem-Knight) deck experience
+- **[ghostrick/](ghostrick/SKILL.md)** — 鬼计 (Ghostrick) deck experience
+- **[gladiatorbeast/](gladiatorbeast/SKILL.md)** — 剑斗兽 (Gladiator Beast) deck experience
+- **[herald/](herald/SKILL.md)** — 宣告者 (Herald) deck experience
+- **[hero/](hero/SKILL.md)** — 英雄 (HERO) deck experience
+- **[hieratic/](hieratic/SKILL.md)** — 圣刻 (Hieratic) deck experience
+- **[icebarrier/](icebarrier/SKILL.md)** — 冰结界 (Ice Barrier) deck experience
+- **[kashtira/](kashtira/SKILL.md)** — 俱舍怒威族 (Kashtira) deck experience
+- **[labrynth/](labrynth/SKILL.md)** — 拉比林斯迷宫 (Labrynth) deck experience
+- **[madolche/](madolche/SKILL.md)** — 魔偶甜点 (Madolche) deck experience
+- **[magibullet/](magibullet/SKILL.md)** — 魔弹 (Magibullet) deck experience
+- **[maliss/](maliss/SKILL.md)** — 码丽丝 (Maliss) deck experience
+- **[mayakashi/](mayakashi/SKILL.md)** — 魔妖 (Mayakashi) deck experience
+- **[mechaphantombeast/](mechaphantombeast/SKILL.md)** — 幻兽机 (Mecha Phantom Beast) deck experience
+- **[mikanko/](mikanko/SKILL.md)** — 御巫 (Mikanko) deck experience
+- **[monarch/](monarch/SKILL.md)** — 帝 (Monarch) deck experience
+- **[nekroz/](nekroz/SKILL.md)** — 影灵衣 (Nekroz) deck experience
+- **[orcust/](orcust/SKILL.md)** — 自奏圣乐 (Orcust) deck experience
+- **[pendulummagician/](pendulummagician/SKILL.md)** — 魔术师 (Pendulum Magician) deck experience
+- **[performapal/](performapal/SKILL.md)** — 娱乐伙伴 (Performapal) deck experience
+- **[phantomknights/](phantomknights/SKILL.md)** — 幻影骑士团 (Phantom Knights) deck experience
+- **[predaplant/](predaplant/SKILL.md)** — 捕食植物 (Predaplant) deck experience
+- **[qliphort/](qliphort/SKILL.md)** — 机壳 (Qliphort) deck experience
+- **[rikka/](rikka/SKILL.md)** — 六花 (Rikka) deck experience
+- **[rokket/](rokket/SKILL.md)** — 弹丸 (Rokket) deck experience
+- **[runick/](runick/SKILL.md)** — 神碑 (Runick) deck experience
+- **[ryzeal/](ryzeal/SKILL.md)** — 雷火沸动 (Ryzeal) deck experience
+- **[shaddoll/](shaddoll/SKILL.md)** — 影依 (Shaddoll) deck experience
+- **[sixsamurai/](sixsamurai/SKILL.md)** — 六武众 (Six Samurai) deck experience
+- **[skystriker/](skystriker/SKILL.md)** — 闪刀姬 (Sky Striker) deck experience
+- **[spellbook/](spellbook/SKILL.md)** — 魔导书 (Spellbook) deck experience
+- **[spright/](spright/SKILL.md)** — 卫星闪灵 (Spright) deck experience
+- **[subterror/](subterror/SKILL.md)** — 机怪虫 (Subterror) deck experience
+- **[swordsoul/](swordsoul/SKILL.md)** — 相剑 (Swordsoul) deck experience
+- **[tearlaments/](tearlaments/SKILL.md)** — 珠泪哀歌族 (Tearlaments) deck experience
+- **[tenpai/](tenpai/SKILL.md)** — 天杯龙 (Tenpai) deck experience
+- **[thunderdragon/](thunderdragon/SKILL.md)** — 雷龙 (Thunder Dragon) deck experience
+- **[timelord/](timelord/SKILL.md)** — 时械神 (Timelord) deck experience
+- **[traptrix/](traptrix/SKILL.md)** — 虫惑魔 (Traptrix) deck experience
+- **[tribrigade/](tribrigade/SKILL.md)** — 铁兽 (Tri-Brigade) deck experience
+- **[trickstar/](trickstar/SKILL.md)** — 淘气仙星 (Trickstar) deck experience
+- **[vendread/](vendread/SKILL.md)** — 复仇死者 (Vendread) deck experience
+- **[voicelessvoice/](voicelessvoice/SKILL.md)** — 肃声 (Voiceless Voice) deck experience
+- **[whiteforest/](whiteforest/SKILL.md)** — 白森林 (White Forest) deck experience
+- **[witchcrafter/](witchcrafter/SKILL.md)** — 魔女术 (Witchcrafter) deck experience
+- **[yangzing/](yangzing/SKILL.md)** — 龙星 (Yang Zing) deck experience
+
+- **Conventions**
+
+- Add a new folder per deck with a SKILL.md linked from this index
+- Keep each file under 200 lines, bullets only, single heading
+- Record mechanics as verified from ygopro scripts with card IDs, not assumptions
+- Record one-card combos as the baseline and two-card lines as named extensions
+- Follow deck folder naming: single lowercase word, no hyphens except self-evolve
