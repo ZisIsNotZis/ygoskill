@@ -14,9 +14,11 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[altergeist/](altergeist/SKILL.md)** — 幻变骚灵 (Altergeist) deck experience
 - **[blueeyes/](blueeyes/SKILL.md)** — 青眼 (Blue-Eyes) deck experience
 - **[constellar/](constellar/SKILL.md)** — 星圣 (Constellar) deck experience
+- **[cyberdragon/](cyberdragon/SKILL.md)** — 电子龙 (Cyber Dragon) deck experience
 - **[cyberse/](cyberse/SKILL.md)** — 电子界 (Cyberse) deck experience
 - **[darkmagician/](darkmagician/SKILL.md)** — 黑魔术师 (Dark Magician) deck experience
 - **[darkworld/](darkworld/SKILL.md)** — 暗黑界 (Dark World) deck experience
+- **[destructionsword/](destructionsword/SKILL.md)** — 破坏之剑士 (Destruction Sword) deck experience
 - **[dinomorphia/](dinomorphia/SKILL.md)** — 恐啡肽狂龙 (Dinomorphia) deck experience
 - **[dragonmaid/](dragonmaid/SKILL.md)** — 半龙女仆 (Dragonmaid) deck experience
 - **[dragunity/](dragunity/SKILL.md)** — 龙骑兵团 (Dragunity) deck experience
@@ -33,8 +35,10 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[hero/](hero/SKILL.md)** — 英雄 (HERO) deck experience
 - **[hieratic/](hieratic/SKILL.md)** — 圣刻 (Hieratic) deck experience
 - **[icebarrier/](icebarrier/SKILL.md)** — 冰结界 (Ice Barrier) deck experience
+- **[karakuri/](karakuri/SKILL.md)** — 机巧 (Karakuri) deck experience
 - **[kashtira/](kashtira/SKILL.md)** — 俱舍怒威族 (Kashtira) deck experience
 - **[labrynth/](labrynth/SKILL.md)** — 拉比林斯迷宫 (Labrynth) deck experience
+- **[livestwin/](livestwin/SKILL.md)** — 直播☆双子 (Live☆Twin) deck experience
 - **[madolche/](madolche/SKILL.md)** — 魔偶甜点 (Madolche) deck experience
 - **[magibullet/](magibullet/SKILL.md)** — 魔弹 (Magibullet) deck experience
 - **[maliss/](maliss/SKILL.md)** — 码丽丝 (Maliss) deck experience
@@ -49,6 +53,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[phantomknights/](phantomknights/SKILL.md)** — 幻影骑士团 (Phantom Knights) deck experience
 - **[predaplant/](predaplant/SKILL.md)** — 捕食植物 (Predaplant) deck experience
 - **[qliphort/](qliphort/SKILL.md)** — 机壳 (Qliphort) deck experience
+- **[redeyes/](redeyes/SKILL.md)** — 真红眼 (Red-Eyes) deck experience
 - **[rikka/](rikka/SKILL.md)** — 六花 (Rikka) deck experience
 - **[rokket/](rokket/SKILL.md)** — 弹丸 (Rokket) deck experience
 - **[runick/](runick/SKILL.md)** — 神碑 (Runick) deck experience
@@ -72,6 +77,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[whiteforest/](whiteforest/SKILL.md)** — 白森林 (White Forest) deck experience
 - **[witchcrafter/](witchcrafter/SKILL.md)** — 魔女术 (Witchcrafter) deck experience
 - **[yangzing/](yangzing/SKILL.md)** — 龙星 (Yang Zing) deck experience
+- **[zoodiac/](zoodiac/SKILL.md)** — 十二兽 (Zoodiac) deck experience
 
 - **Conventions**
 
