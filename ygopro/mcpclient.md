@@ -62,4 +62,6 @@
 - Many corpus decks are non-legal under the current banlist or export incomplete; do not fix the deck, instead create a room with a rule string that contains NOCHECK or NC — srvpro treats that substring in the room/rule as hostinfo.no_check_deck and skips deck validation entirely (ygopro-server.js:1844), no server config edit required
 - The example decks currently in use: deck/example.ydk, example3.ydk, example4.ydk, example5.ydk (deck2ydk output)
 - Start the local server from ~/srvpro with node ygopro-server.js (port 7911) before connecting MCP clients; rooms optionally use a name/password to pair the two client instances
+- Both duel-driver subagents MUST use the exact same room name AND matching password: a past test failed because one driver hosted room SwordsoulTestNOCHECK while the other tried to join room Exosister-Tester carrying password SwordsoulTestNOCHECK, so the pair never matched; pass one identical (room, password) string to both sides
+- In a live self-duel the debug YGOPro client can crash with rc=-11 (segfault) mid-match after a timeout — this is a known debug-build stability issue, not a rule-state problem; if one MCP client crashes, the duel is lost, so prefer fast (reasoning off) drivers and raise the server timeouts (hang_timeout/time_limit 600) to reduce the chance of timing out into the crash window
 
