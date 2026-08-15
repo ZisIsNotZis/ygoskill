@@ -20,6 +20,9 @@ description: Combo discovery workflow with constraint checking and search strate
   - Turn is unspecified -> assume worst case (T1, no Main Phase 2, no battle phase)
   - Never assume a monster's summon method (normal/special/tuned) unless stated
   - Never assume specific cards in hand or grave -> combos must work with arbitrary cards
+  - One-card combos are the baseline, two-card combos are named extensions, never the primary line
+  - Trace every summon source: a summon from hand requires the card already in hand, a search that adds to hand still needs a summon effect before the body lands
+  - Verify every search target can act this turn: traps cannot activate the turn they are set or searched, so prefer quick-play, continuous, or monster searches mid combo
   - Link-N requires exactly N link value from materials; each monster counts as 1 or its own link rating
   - Extra deck monsters (fusion/synchro/xyz/link) do not exist in main deck
   - Cards with archetype restrictions can only access their own archetype unless stated

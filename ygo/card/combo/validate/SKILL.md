@@ -17,6 +17,8 @@ description: Combo validation rules and common pitfalls
 
   - Assuming grave contents that were never sent there
   - Assuming a card is in hand when it's only in deck or grave
+  - Assuming a search target can be used the same turn it is searched, traps and most continuous effects cannot, so the end field after a trap search is the current board not the intended board
+  - Assuming a summon from hand has its target already in hand, a special summon effect that takes from hand needs the searched card to reach hand first
   - Assuming Main Phase 2 exists on T1 (no battle phase = no MP2)
   - Assuming a monster was normal summoned (needed for some tribute/eff conditions)
   - Using extra deck monsters as if they exist in main deck

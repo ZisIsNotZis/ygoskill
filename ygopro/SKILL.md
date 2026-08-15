@@ -8,6 +8,7 @@ description: YGOPro implementation knowledge including database, YDK, scripts, a
 - **[ydk.md](ydk.md)** — YDK file format and tool usage
 - **[banlist.md](banlist.md)** — Ban list structure and prediction
 - **[ranking.md](ranking.md)** — Meta tier analysis and tournament data
+- **[mcpclient.md](mcpclient.md)** — MCP duel client tools, prompts, and real-time limits
 - **[script/](script/SKILL.md)** — Script research, implementation, comparison
 - **[tools/](tools/SKILL.md)** — Tool scripts for deck, database, image, and crawler tasks
 - **[self-evolve/](../script-self-evolve/SKILL.md)** — Script skill evolution with automated validation

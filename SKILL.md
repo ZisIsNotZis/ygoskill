@@ -19,6 +19,8 @@ description: Comprehensive Yu-Gi-Oh! and YGOPro expertise. Reorganized skill tre
     - **[build/](ygo/deck-build/SKILL.md)** — 5-step deck building
     - **[compare/](ygo/deck-compare/SKILL.md)** — Deck comparison
     - **[self-evolve/](ygo/deck-self-evolve/SKILL.md)** — Deck skill evolution
+  - **[decks/](ygo/decks/SKILL.md)** — Per-deck experience collections
+    - **[exosister/](ygo/decks/exosister/SKILL.md)** — 救祓少女 (Exosister) experience
 - **[ygopro/](ygopro/SKILL.md)** — YGOPro implementation knowledge
   - **[script/](ygopro/script/SKILL.md)** — Script research, implementation
     - **[research/](ygopro/script-research/SKILL.md)** — Script research
