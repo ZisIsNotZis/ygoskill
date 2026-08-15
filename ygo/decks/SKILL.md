@@ -21,6 +21,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[cyberse/](cyberse/SKILL.md)** — 电子界 (Cyberse) deck experience
 - **[darkmagician/](darkmagician/SKILL.md)** — 黑魔术师 (Dark Magician) deck experience
 - **[darkworld/](darkworld/SKILL.md)** — 暗黑界 (Dark World) deck experience
+- **[dd/](dd/SKILL.md)** — 契约书/D·D (D/D) deck experience
 - **[destructionsword/](destructionsword/SKILL.md)** — 破坏之剑士 (Destruction Sword) deck experience
 - **[dinomorphia/](dinomorphia/SKILL.md)** — 恐啡肽狂龙 (Dinomorphia) deck experience
 - **[dinosaur/](dinosaur/SKILL.md)** — 恐龙 (Dinosaur) deck experience
@@ -36,6 +37,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[galaxyeyes/](galaxyeyes/SKILL.md)** — 银河眼 (Galaxy-Eyes) deck experience
 - **[gemini/](gemini/SKILL.md)** — 二重 (Gemini) deck experience
 - **[gemknight/](gemknight/SKILL.md)** — 宝石骑士 (Gem-Knight) deck experience
+- **[genex/](genex/SKILL.md)** — 次世代 (Genex) deck experience
 - **[ghostrick/](ghostrick/SKILL.md)** — 鬼计 (Ghostrick) deck experience
 - **[gladiatorbeast/](gladiatorbeast/SKILL.md)** — 剑斗兽 (Gladiator Beast) deck experience
 - **[gunkansuship/](gunkansuship/SKILL.md)** — 军贯 (Gunkan Suship) deck experience
