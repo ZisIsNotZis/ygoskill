@@ -10,6 +10,7 @@ description: Deck research, building, and optimization
 - **[rules.md](rules.md)** — Deck construction rules
 - **[metrics.md](metrics.md)** — Quantitative thresholds and quality scoring
 - **[combat.md](combat.md)** — Go-first and go-second strategy
+- **[interruption-tactics.md](interruption-tactics.md)** — How to read and break any opponent deck by engine shape (choke points, sequencing, hand-trap budget)
 - **[research/](research/SKILL.md)** — Deck research workflow
 - **[build/](build/SKILL.md)** — 5-step deck building
 - **[compare/](compare/SKILL.md)** — Deck comparison

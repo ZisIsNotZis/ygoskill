@@ -4,7 +4,7 @@ description: Cross-cutting catalog of recurring extra-deck summon geometry patte
 ---
 # Extra-Deck Summon Geometries
 
-- Scope: patterns distilled from 40+ deck docs under ygo/decks plus the generic-extra catalog; anchor codes verified in cards.cdb; read the per-deck doc before relying on a specific ladder because each archetype adds its own summon locks
+- Scope: patterns distilled from 110+ deck docs under ygo/decks plus the generic-extra catalog; anchor codes verified in cards.cdb; read the per-deck doc before relying on a specific ladder because each archetype adds its own summon locks
 
 - **Rank/Level Ladder: Every Rung Summons the Next Tier**
 

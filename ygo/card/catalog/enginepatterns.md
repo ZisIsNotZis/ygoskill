@@ -4,7 +4,7 @@ description: Recurring engine shapes across archetypes: core loop, one-card mini
 ---
 # Engine Patterns
 
-- Cross-archetype study of the per-deck experience corpus, 40+ archetype documents read; decks with different names and different card text repeat the same engine geometry
+- Cross-archetype study of the per-deck experience corpus, 110+ archetype documents read; decks with different names and different card text repeat the same engine geometry
 - An engine shape is the fixed resource loop, the zone traffic it runs on (hand, field, grave, banished, deck, equip zone), its one-card entry point, the board it converges on, and the choke point where one interruption kills the whole line
 - Every anchor is a real 8-digit card code verified in this codebase; a deck can run two shapes at once, the primary shape predicts the combo and the secondary shape fills the break plan
 
