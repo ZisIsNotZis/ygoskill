@@ -42,6 +42,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[hieratic/](hieratic/SKILL.md)** — 圣刻 (Hieratic) deck experience
 - **[icebarrier/](icebarrier/SKILL.md)** — 冰结界 (Ice Barrier) deck experience
 - **[ignister/](ignister/SKILL.md)** — @火灵天星 (@Ignister) deck experience
+- **[infernity/](infernity/SKILL.md)** — 永火 (Infernity) deck experience
 - **[invoked/](invoked/SKILL.md)** — 召唤师·阿莱斯特 (Invoked) deck experience
 - **[junkstardust/](junkstardust/SKILL.md)** — 废品·星尘 (Junk-Stardust) deck experience
 - **[karakuri/](karakuri/SKILL.md)** — 机巧 (Karakuri) deck experience
@@ -61,6 +62,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[monarch/](monarch/SKILL.md)** — 帝 (Monarch) deck experience
 - **[nekroz/](nekroz/SKILL.md)** — 影灵衣 (Nekroz) deck experience
 - **[nobleknight/](nobleknight/SKILL.md)** — 圣骑士 (Noble Knight) deck experience
+- **[numeron/](numeron/SKILL.md)** — 源数 (Numeron) deck experience
 - **[oddeyes/](oddeyes/SKILL.md)** — 异色眼 (Odd-Eyes) deck experience
 - **[orcust/](orcust/SKILL.md)** — 自奏圣乐 (Orcust) deck experience
 - **[pendulummagician/](pendulummagician/SKILL.md)** — 魔术师 (Pendulum Magician) deck experience
