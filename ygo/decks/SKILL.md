@@ -88,6 +88,8 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[sixsamurai/](sixsamurai/SKILL.md)** — 六武众 (Six Samurai) deck experience
 - **[skystriker/](skystriker/SKILL.md)** — 闪刀姬 (Sky Striker) deck experience
 - **[spellbook/](spellbook/SKILL.md)** — 魔导书 (Spellbook) deck experience
+- **[spirit/](spirit/SKILL.md)** — 精灵 (Spirit) deck experience
+- **[spiritsoul/](spiritsoul/SKILL.md)** — 灵魂 (Spirit Soul) deck experience
 - **[spright/](spright/SKILL.md)** — 卫星闪灵 (Spright) deck experience
 - **[subterror/](subterror/SKILL.md)** — 机怪虫 (Subterror) deck experience
 - **[sunavalon/](sunavalon/SKILL.md)** — 圣天树 (Sunavalon) deck experience
