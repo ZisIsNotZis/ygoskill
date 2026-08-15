@@ -7,7 +7,8 @@ description: 永火 (Infernity) deck experience: zero-hand engine, launcher loop
 - **Deck Identity**
 
 - The deck folder 260425巳剑荷鲁斯魔的永火 is a custom rework: a small Infernity zero-hand package inside a 巳剑 ritual shell with 荷鲁斯 and 刻魔 (Fiendsmith) engines
-- Infernity package: 永火恶魔 99177923, 永火死灵师 56209279, 永火贤者 46435376, 永火炮 66957584, 永火压制 12541409, 归来的死神 04599182
+- Newest build 260425 main deck runs a thin Infernity package: 永火恶魔 99177923, 永火死灵师 56209279, 永火贤者 46435376, 永火炮 66957584, 归来的死神 04599182
+- Variant 260320永火荷鲁斯刻魔 runs the fuller Infernity core, adding 永火幻象 86197239, 永火主教 54320860, 永火咒法师 48144778, 永火压制 12541409, 无之炼狱 93946239
 - 巳剑 ritual engine: 巳剑降临 81560239, 天羽羽斩之巳剑 13332685, 天丛云之巳剑 19899073, 布都御魂之巳剑 55397172, 巳剑之尊 麁正 40543231, 巳剑之尊 草那艺 82782870, 巳剑之尊 佐士 18176525, 夜刀蛇巳 20295753, 巳剑劝请 45171524, 巳剑之神镜 49721684, 巳剑大祓 17954937, 朽坏的祭仪要录 24461358, 仪式的事前准备 13048472
 - 荷鲁斯 engine: 荷鲁斯的荣光-伊姆塞特 84941194, 荷鲁斯的先导-哈碧 47330808, 王之棺 16528181, 王墓的石壁 26984177
 - 刻魔 engine: 刻印群魔的刻魔锻冶师 60764609, 刻魔的咏圣 98567237, 刻魔的赞圣 35552985, 刻魔的大圣棺 49867899, 红泪之魔 落泪 28803166
@@ -20,8 +21,8 @@ description: 永火 (Infernity) deck experience: zero-hand engine, launcher loop
 - 永火炮 66957584 effect one discards 1 Infernity monster from hand toward reaching zero, effect two sends face-up Launcher from S/T zone to GY to special summon up to 2 Infernity monsters from GY, only while hand is 0
 - 永火恶魔 99177923 effect one special summons itself when drawn while hand is 0, effect two searches any Infernity card from deck on special summon while hand is 0
 - 永火贤者 46435376 effect one discards your entire hand to reach zero, effect two mills an Infernity monster from deck when it is sent to GY while hand is 0
-- 永火死灵师 56209279 effect two special summons 1 Infernity monster from GY once per turn while hand is 0, 永火幻象 86197239 tributes itself to special summon 2 Infernity monsters from GY while hand is 0
-- 永火主教 54320860 special summons itself from hand when it is the only card in hand, 永火咒法师 48144778 special summons itself from GY while hand is 0 and cuts opponent monster ATK by 800
+- 永火死灵师 56209279 effect two special summons 1 Infernity monster from GY once per turn while hand is 0, the fuller variant adds 永火幻象 86197239 which tributes itself to special summon 2 Infernity monsters from GY while hand is 0
+- 永火主教 54320860 special summons itself from hand when it is the only card in hand, 永火咒法师 48144778 special summons itself from GY while hand is 0 and cuts opponent monster ATK by 800, both only in the fuller variant
 - The zero-hand loop: 永火炮 66957584 special summons 永火恶魔 99177923 plus 永火死灵师 56209279 from GY, 永火恶魔 searches another Infernity card, 永火死灵师 revives 永火恶魔 again, repeat the search and revive cycle for infinite advantage
 
 - **One-Card Combo: 巳剑降临 ritual line**
@@ -37,7 +38,7 @@ description: 永火 (Infernity) deck experience: zero-hand engine, launcher loop
 - 天丛云之巳剑 19899073 as the boss, 3200 ATK, destroys all opponent monsters on summon, quick effect makes opponent discard 1 card or negate their effect
 - 天羽羽斩之巳剑 13332685 plus 布都御魂之巳剑 55397172 as grind bodies, both recur from GY via their release search effects
 - 毁灭之黑魔术师 59400890 as an alternative finisher, special summons itself by banishing a 6 star or higher Spellcaster from field after a spell is activated and searches 黑魔术师 46986414 or a card listing it
-- Backrow: 巳剑大祓 17954937 negate trap, 恶魔的篡夺 82997779 ritual summon or trap set, 永火压制 12541409 negate plus burn, 王墓的石壁 26984177 field spell
+- Backrow: 巳剑大祓 17954937 negate trap, 恶魔的篡夺 82997779 ritual summon or trap set, 王墓的石壁 26984177 field spell, 永火压制 12541409 negate plus burn in the fuller variant
 - Link toolbox: 刻魔的大圣棺 49867899, 刻魔的神圣棺 32991300, 世海龙 西兰提斯 45112597, 真血公 吸血鬼 73082255
 
 - **Extenders**
