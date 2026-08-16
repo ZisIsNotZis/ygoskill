@@ -12,10 +12,11 @@ description: Deck skill self-evolution based on ydkcheck.py failures and compari
 - Step 1: Build a deck strictly following [build/SKILL.md](../deck-build/SKILL.md) 5-step workflow
 - Step 2: Run ydkcheck.py with section all — this is a dedicated non-skippable verification step, every error must be resolved
 - Step 3: Compare with reference decks following [compare/SKILL.md](../deck-compare/SKILL.md) — write down ALL differences unconditionally
-- Step 4: For each failure or systematic difference, analyze: which step in the workflow caused it? Is the threshold in [metrics.md](../metrics.md) wrong? Is the card data in [catalog/](../../card/catalog/SKILL.md) incomplete? Is the engine info in [engines.md](../engines.md) missing? Were you strictly following the guideline? If yes and result is wrong, how should the guideline change?
-- Step 5: Update the root-cause skill file — [build/SKILL.md](../deck-build/SKILL.md), [metrics.md](../metrics.md), [engines.md](../engines.md), [combat.md](../combat.md), [compare/SKILL.md](../deck-compare/SKILL.md), or catalog files
-- Step 6: Re-build the deck from scratch following the updated workflow, repeat steps 2-5 until ydkcheck.py passes with 0 errors and match rate is 50 percent or above
-- One-time pass means: ydkcheck.py 0 errors on first run after building, and match rate 50 percent or above on first comparison
+- Step 4: Run ygopromcp self-duels following [playtest-evolution.md](../deck/playtest-evolution.md) to verify combo lines and discover mistakes
+- Step 5: For each failure or systematic difference, analyze: which step in the workflow caused it? Is the threshold in [metrics.md](../metrics.md) wrong? Is the card data in [catalog/](../../card/catalog/SKILL.md) incomplete? Is the engine info in [engines.md](../engines.md) missing? Were you strictly following the guideline? If yes and result is wrong, how should the guideline change?
+- Step 6: Update the root-cause skill file — [build/SKILL.md](../deck-build/SKILL.md), [metrics.md](../metrics.md), [engines.md](../engines.md), [combat.md](../combat.md), [compare/SKILL.md](../deck-compare/SKILL.md), [playtest-evolution.md](../deck/playtest-evolution.md), [video-study.md](../deck/video-study.md), or catalog files
+- Step 7: Re-build the deck from scratch following the updated workflow, repeat steps 2-6 until ydkcheck.py passes with 0 errors, match rate is 50 percent or above, and self-duel lines match the deck experience file
+- One-time pass means: ydkcheck.py 0 errors on first run after building, match rate 50 percent or above on first comparison, and self-duel observations match the written experience file
 
 - **Triggers**
 
@@ -38,10 +39,12 @@ description: Deck skill self-evolution based on ydkcheck.py failures and compari
 - If catalog card is missing: add to the appropriate catalog file under [card/catalog/](../../card/catalog/SKILL.md)
 - If comparison workflow has gap: update [compare/SKILL.md](../deck-compare/SKILL.md)
 - If combat strategy is wrong: update [combat.md](../combat.md) with corrected strategy and evidence
+- If self-duels reveal a combo or mistake not in the skill: update [playtest-evolution.md](../deck/playtest-evolution.md) or the per-deck experience file
+- If a Bilibili master video exposes a line the skill misses: update [video-study.md](../deck/video-study.md) or the per-deck experience file
 
 - **Verification**
 
-- After updating skill files, verify they are under 200 lines per [self-evolve/markdown-maintenance.md](../../../meta-self-evolve/markdown-maintenance.md)
+- After updating skill files, verify they are under 200 lines per [meta-self-evolve/markdown-maintenance.md](../../meta-self-evolve/markdown-maintenance.md)
 - Verify all updated files are linked from their parent SKILL.md
 - Re-run ydkcheck.py on the deck that triggered the evolution to confirm the gap is addressed
 - **Output Format**

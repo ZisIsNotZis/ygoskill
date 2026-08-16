@@ -11,6 +11,8 @@ description: Deck research, building, and optimization
 - **[metrics.md](metrics.md)** — Quantitative thresholds and quality scoring
 - **[combat.md](combat.md)** — Go-first and go-second strategy
 - **[interruption-tactics.md](interruption-tactics.md)** — How to read and break any opponent deck by engine shape (choke points, sequencing, hand-trap budget)
+- **[playtest-evolution.md](playtest-evolution.md)** — Evolve deck experience through ygopromcp self-duels
+- **[video-study.md](video-study.md)** — Learn from Bilibili master videos with BBDown and watch
 - **[research/](research/SKILL.md)** — Deck research workflow
 - **[build/](build/SKILL.md)** — 5-step deck building
 - **[compare/](compare/SKILL.md)** — Deck comparison

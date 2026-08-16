@@ -1,6 +1,6 @@
 ---
 name: ygo-skills
-description: Comprehensive Yu-Gi-Oh! and YGOPro expertise. Reorganized skill tree. Read self-evolve/markdown-maintenance.md before editing any markdown.
+description: Comprehensive Yu-Gi-Oh! and YGOPro expertise. Reorganized skill tree. Read meta-self-evolve/markdown-maintenance.md before editing any markdown.
 ---
 
 # Yu-Gi-Oh! Skills
@@ -19,9 +19,14 @@ description: Comprehensive Yu-Gi-Oh! and YGOPro expertise. Reorganized skill tre
     - **[build/](ygo/deck-build/SKILL.md)** — 5-step deck building
     - **[compare/](ygo/deck-compare/SKILL.md)** — Deck comparison
     - **[self-evolve/](ygo/deck-self-evolve/SKILL.md)** — Deck skill evolution
+    - **[playtest-evolution.md](ygo/deck/playtest-evolution.md)** — Evolve deck experience through ygopromcp self-duels
+    - **[video-study.md](ygo/deck/video-study.md)** — Learn from Bilibili master videos
   - **[decks/](ygo/decks/SKILL.md)** — Per-deck experience collections
     - **[exosister/](ygo/decks/exosister/SKILL.md)** — 救祓少女 (Exosister) experience
 - **[ygopro/](ygopro/SKILL.md)** — YGOPro implementation knowledge
+  - **[mcpclient.md](ygopro/mcpclient.md)** — MCP duel client overview
+  - **[mcp-ygopromcp.md](ygopro/mcp-ygopromcp.md)** — ygopromcp fork for agent duels
+  - **[mcp-ygomcp.md](ygopro/mcp-ygomcp.md)** — ygomcp lightweight client
   - **[script/](ygopro/script/SKILL.md)** — Script research, implementation
     - **[research/](ygopro/script-research/SKILL.md)** — Script research
     - **[build/](ygopro/script-build/SKILL.md)** — Script implementation

@@ -8,11 +8,13 @@ description: YGOPro implementation knowledge including database, YDK, scripts, a
 - **[ydk.md](ydk.md)** — YDK file format and tool usage
 - **[banlist.md](banlist.md)** — Ban list structure and prediction
 - **[ranking.md](ranking.md)** — Meta tier analysis and tournament data
-- **[mcpclient.md](mcpclient.md)** — MCP duel client tools, prompts, and real-time limits
+- **[mcpclient.md](mcpclient.md)** — MCP duel client selection and wiring
+- **[mcp-ygopromcp.md](mcp-ygopromcp.md)** — ygopromcp fork, the active agent duel client
+- **[mcp-ygomcp.md](mcp-ygomcp.md)** — ygomcp lightweight client, deprecated for duels
 - **[script/](script/SKILL.md)** — Script research, implementation, comparison
 - **[tools/](tools/SKILL.md)** — Tool scripts for deck, database, image, and crawler tasks
-- **[self-evolve/](../script-self-evolve/SKILL.md)** — Script skill evolution with automated validation
-  - **[markdown-maintenance.md](../script-self-evolve/markdown-maintenance.md)** — Markdown maintenance guidelines
-  - **[mdcheck.py](../script-self-evolve/mdcheck.py)** — Markdown validation script
-  - **[catalogcheck.py](../script-self-evolve/catalogcheck.py)** — Catalog validation script
-  - **[combocheck.py](../script-self-evolve/combocheck.py)** — Combo validation script
+- **[self-evolve/](script-self-evolve/SKILL.md)** — Script skill evolution with automated validation
+  - **[markdown-maintenance.md](meta-self-evolve/markdown-maintenance.md)** — Markdown maintenance guidelines
+  - **[mdcheck.py](meta-self-evolve/mdcheck.py)** — Markdown validation script
+  - **[catalogcheck.py](meta-self-evolve/catalogcheck.py)** — Catalog validation script
+  - **[combocheck.py](meta-self-evolve/combocheck.py)** — Combo validation script

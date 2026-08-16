@@ -14,7 +14,7 @@ Search YDK files by filename using glob with patterns like double-star slash ast
 
 - **Gather Online References**
 
-Search recent tournament results using web search with archetype plus top cut decklist plus year, search meta rankings using web search with archetype plus tier list meta, search community discussions on Reddit, Team APS, and Master Duel Meta, note regional differences between OCG for Japan, TCG for Western regions, and Master Duel for digital because ban lists and metas differ.
+Search recent tournament results using web search with archetype plus top cut decklist plus year, search meta rankings using web search with archetype plus tier list meta, search community discussions on Reddit, Team APS, and Master Duel Meta, study high-level Bilibili videos using [video-study.md](video-study.md) for combo lines and timing, note regional differences between OCG for Japan, TCG for Western regions, and Master Duel for digital because ban lists and metas differ.
 
 - **Classify Deck Type**
 
@@ -39,3 +39,8 @@ Determine current tier placement, top matchup strengths and weaknesses, recent b
   Key variants: {list}
   Hand trap config: {cards}
   Tech cards: {card} ({rationale})
+
+- **Next Step**
+
+- After classifying the deck and extracting core cards, validate the findings through ygopromcp self-duels following [playtest-evolution.md](playtest-evolution.md)
+- Update the deck experience file under ygo/decks/<deck>/SKILL.md with verified combo lines and common mistakes

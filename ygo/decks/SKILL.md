@@ -128,4 +128,6 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - Keep each file under 200 lines, bullets only, single heading
 - Record mechanics as verified from ygopro scripts with card IDs, not assumptions
 - Record one-card combos as the baseline and two-card lines as named extensions
+- Update experience files through ygopromcp self-duels using [playtest-evolution.md](../deck/playtest-evolution.md)
+- Supplement with master videos using [video-study.md](../deck/video-study.md)
 - Follow deck folder naming: single lowercase word, no hyphens except self-evolve
