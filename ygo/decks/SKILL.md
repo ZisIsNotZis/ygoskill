@@ -86,6 +86,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[qliphort/](qliphort/SKILL.md)** — 机壳 (Qliphort) deck experience
 - **[redeyes/](redeyes/SKILL.md)** — 真红眼 (Red-Eyes) deck experience
 - **[rikka/](rikka/SKILL.md)** — 六花 (Rikka) deck experience
+- **[ritualbeast/](ritualbeast/SKILL.md)** — 灵兽 (Ritual Beast) deck experience
 - **[rokket/](rokket/SKILL.md)** — 弹丸 (Rokket) deck experience
 - **[runick/](runick/SKILL.md)** — 神碑 (Runick) deck experience
 - **[ryzeal/](ryzeal/SKILL.md)** — 雷火沸动 (Ryzeal) deck experience

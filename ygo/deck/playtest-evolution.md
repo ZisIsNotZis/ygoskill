@@ -23,6 +23,7 @@ description: Evolve deck experience by having agent-driven ygopromcp clients due
 - Run ydkcheck.py section all on the target deck to fix construction errors before play-test
 - Read the relevant card scripts and ygopro database entries for any card whose timing is unclear
 - Form a hypothesis for one-card combo, key extender lines, weak points, and common mistakes
+- If a combo was learned from a video, treat it as a hypothesis until a self-duel reproduces the same end board and sequence
 
 - **Duel Setup**
 

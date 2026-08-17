@@ -30,6 +30,7 @@ description: Learn from master players by downloading Bilibili videos and watchi
 - Example question: which hand trap does the player keep and why
 - Example question: how does the deck play through Ash Blossom
 - For long videos, use the watch skill's --start and --end flags to focus on a single duel or turn
+- If the video has no native captions and no Whisper key is available, use `--no-whisper` to get frames only and read the board state directly
 
 - **Information to Extract**
 
@@ -47,6 +48,17 @@ description: Learn from master players by downloading Bilibili videos and watchi
 - Add named extender entries for any flexible piece the master highlights
 - Record halt points discovered in the video, such as when the combo loses to a specific hand trap
 - Add matchup notes when the master plays against a deck already in the corpus
+
+- **Transcription Fallbacks**
+
+- If `/watch` cannot transcribe because captions are missing and no Groq/OpenAI key is configured, try local whisper.cpp with all CPU cores (`-t $(nproc)`) and a fast model such as `ggml-large-v3-turbo-q5_0.bin`
+- If local transcription is too slow for a long video, download viewer danmaku with `BBDown --danmaku-only` to collect timestamps and community notes
+- For tutorial videos that display spreadsheets or slide decks, use `ffmpeg -ss <timestamp> -i <video> -vframes 1` to extract high-resolution crops and read them directly
+
+- **Card Lookup**
+
+- Convert captured card names into card IDs with `ydkshow.py <keyword>` so every line in the deck experience file has a verified ID
+- When a card name is ambiguous, query `cards.cdb` directly or check the in-game card text from the video frame
 
 - **Verification**
 
