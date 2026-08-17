@@ -66,6 +66,7 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[madolche/](madolche/SKILL.md)** — 魔偶甜点 (Madolche) deck experience
 - **[magibullet/](magibullet/SKILL.md)** — 魔弹 (Magibullet) deck experience
 - **[maliss/](maliss/SKILL.md)** — 码丽丝 (Maliss) deck experience
+- **[maliss/](maliss/SKILL.md)** — 码丽丝 (M∀LICE) deck experience
 - **[mayakashi/](mayakashi/SKILL.md)** — 魔妖 (Mayakashi) deck experience
 - **[mechaphantombeast/](mechaphantombeast/SKILL.md)** — 幻兽机 (Mecha Phantom Beast) deck experience
 - **[meklord/](meklord/SKILL.md)** — 机皇 (Meklord) deck experience
@@ -94,7 +95,9 @@ description: Per-deck experience collections covering mechanics, combos, and pit
 - **[salamangreat/](salamangreat/SKILL.md)** — 转生炎兽 (Salamangreat) deck experience
 - **[shaddoll/](shaddoll/SKILL.md)** — 影依 (Shaddoll) deck experience
 - **[sixsamurai/](sixsamurai/SKILL.md)** — 六武众 (Six Samurai) deck experience
-- **[skystriker/](skystriker/SKILL.md)** — 闪刀姬 (Sky Striker) deck experience
+- **[spellbook/](spellbook/SKILL.md)** — 魔导书 (Spellbook) deck experience
+- **[skystriker/](skystriker/SKILL.md)** — 闪刀姬 (Sky Striker) deck experience · [history](skystriker/HISTORY.md)
+- **[snakeeye/](snakeeye/SKILL.md)** — 罪宝蛇眼 (Sinful Spoils Snake-Eye) deck experience
 - **[spellbook/](spellbook/SKILL.md)** — 魔导书 (Spellbook) deck experience
 - **[spirit/](spirit/SKILL.md)** — 精灵 (Spirit) deck experience
 - **[spiritsoul/](spiritsoul/SKILL.md)** — 灵魂 (Spirit Soul) deck experience
